@@ -1,12 +1,12 @@
 var summary;
-fetch("https://raw.githubusercontent.com/localcatolico/localcatolico-oracoes/main/data/summary.json")
+fetch("https://raw.githubusercontent.com/localcatolico/localcatolico-musicas/main/data/summary.json")
   .then(res => res.json())
   .then(data => {
     summary = data.summary;
    })
   .then(() => {
     var musics;
-    fetch("https://raw.githubusercontent.com/localcatolico/localcatolico-oracoes/main/data/musics.json")
+    fetch("https://raw.githubusercontent.com/localcatolico/localcatolico-musicas/main/data/musics.json")
       .then(res => res.json())
       .then(data => {
         musics = data.musics;
