@@ -34,6 +34,11 @@ function doSummary(summary, musics) {
     for (var m of s.musics) {
       music = findMusic(m, musics)
       html += `<h1>` + music.name + `</h1>`
+
+      if (music.cifra_url != "" && music.cifra_url != undefined) {
+        html += `<a class="btn btn-sm btn-primary" href="` + music.cifra_url + `" target="_blank">Cifra</a><br><br>`
+      }
+
       for (var c of music.content) {
         html += c + `<br><br>`
       }

@@ -57,7 +57,7 @@
     },
     {
       "id": "tu-me-guias-dany-grace",
-      "name": "Tu me guis",
+      "name": "Tu me guias",
       "artist": "Dany Grace",
       "youtube_url": "",
       "content": [
@@ -178,6 +178,7 @@
       "name": "Que Santidade de Vida",
       "artist": "Jonas Abib",
       "youtube_url": "",
+      "cifra_url": "https://www.cifraclub.com.br/padre-jonas/que-santidade-de-vida",
       "content": [
         "Que santidade de vida<br>Que homens devemos ser<br>Pois se tudo no céu e na terra<br>O Senhor chamará",
         "Que respeito para com Deus<br>Que lutas devemos travar?<br>No novo céu e na nova terra<br>Iremos morar",
