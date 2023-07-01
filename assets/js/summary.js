@@ -17,7 +17,8 @@ fetch("https://raw.githubusercontent.com/localcatolico/localcatolico-musicas/mai
    });
 
 function doSummary(summary, musics) {
-  let html;
+  let html = "";
+
   for (var s of summary) {
     html +=
       `<div class="accordion-item">
