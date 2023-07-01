@@ -6,35 +6,35 @@
       "enabled": "false",
       "summary": [
         {
-          "moment": "Entrada",
+          "name": "Entrada",
           "musics": []
         },
         {
-          "moment": "Ato Penitencial",
+          "name": "Ato Penitencial",
           "musics": []
         },
         {
-          "moment": "Glória",
+          "name": "Glória",
           "musics": []
         },
         {
-          "moment": "Aclamação ao Evangélio",
+          "name": "Aclamação ao Evangélio",
           "musics": []
         },
         {
-          "moment": "Ofertório",
+          "name": "Ofertório",
           "musics": []
         },
         {
-          "moment": "Santo",
+          "name": "Santo",
           "musics": []
         },
         {
-          "moment": "Comunhão",
+          "name": "Comunhão",
           "musics": []
         },
         {
-          "moment": "Final",
+          "name": "Final",
           "musics": []
         }
       ]
@@ -45,43 +45,43 @@
       "enabled": "true",
       "summary": [
         {
-          "moment": "Entrada",
+          "name": "Entrada",
           "musics": [
             "bandeira-do-divino"
           ]
         },
         {
-          "moment": "Ato Penitencial",
+          "name": "Ato Penitencial",
           "musics": [
             "conheco-um-coracao-marcelo-rossi"
           ]
         },
         {
-          "moment": "Glória",
+          "name": "Glória",
           "musics": []
         },
         {
-          "moment": "Aclamação ao Evangélio",
+          "name": "Aclamação ao Evangélio",
           "musics": [
             "deixa-a-luz-do-ceu-entrar"
           ]
         },
         {
-          "moment": "Ofertório",
+          "name": "Ofertório",
           "musics": []
         },
         {
-          "moment": "Santo",
+          "name": "Santo",
           "musics": []
         },
         {
-          "moment": "Comunhão",
+          "name": "Comunhão",
           "musics": [
             "divino-hospede"
           ]
         },
         {
-          "moment": "Final",
+          "name": "Final",
           "musics": [
             "deixa-a-bandeira-passar"
           ]
