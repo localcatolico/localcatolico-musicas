@@ -34,7 +34,7 @@ function doSummary(summary, musics) {
       music = findMusic(m, musics)
       html += `<h1>` + music.name + `</h1>`
       for (var c of music.content) {
-        html += c + `<br>`
+        html += c + `<br><br>`
       }
     }
 
