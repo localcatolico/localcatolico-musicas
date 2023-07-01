@@ -5,6 +5,7 @@
       "name": "",
       "artist": "",
       "youtube_url": "",
+      "cifra_url": "",
       "content": [
         "",
         ""
@@ -336,6 +337,48 @@
         "Christe eleison<br>Kyrie eleison<br>Kyrie eleison",
         "Senhor, que muito perdoais<br>A todo aquele<br>Que muito ama<br>Tende piedade de nós",
         "Kyrie eleison<br>Kyrie eleison<br>Kyrie eleison"
+      ]
+    },
+    {
+      "id": "bandeira-do-divino",
+      "name": "Bandeira do Divino",
+      "artist": "Ivan Lins",
+      "youtube_url": "https://www.youtube.com/watch?v=Cj2I8_Cqpz0",
+      "cifra_url": "",
+      "content": [
+        "Os devotos do Divino<br>Vão abrir sua morada<br>Pra bandeira do Menino<br>Ser bem-vinda, ser louvada, ai, ai",
+        "Deus vos salve esse devoto<br>Pela esmola em vosso nome<br>Dando água a quem tem sede<br>Dando pão a quem tem fome, ai, ai",
+        "A bandeira acredita<br>Que a semente seja tanta<br>Que essa mesa seja farta<br>Que essa casa seja santa, ai, ai",
+        "Que o perdão seja sagrado<br>Que a fé seja infinita<br>Que o homem seja livre<br>Que a justiça sobreviva, ai, ai",
+        "Assim como os três reis magos<br>Que seguiram a estrela-guia<br>A bandeira segue em frente<br>Atrás de melhores dias, ai, ai",
+        "No estandarte vai escrito<br>Que Ele voltará de novo<br>E o Rei será bendito<br>Ele nascerá do povo, ai, ai"
+      ]
+    },
+    {
+      "id": "deixa-a-luz-do-ceu-entrar",
+      "name": "Deixa a luz do céu entrar",
+      "artist": "Católicas",
+      "youtube_url": "https://www.youtube.com/watch?v=OY_L8h7LfVE",
+      "cifra_url": "https://www.cifraclub.com.br/catolicas/deixa-luz-do-ceu-entrar",
+      "content": [
+        "Tu anseias, eu bem sei, por salvação<br>Tens desejo de banir a escuridão<br>Abre, pois, de par em par, teu coração<br>E deixa a luz do céu entrar",
+        "Deixa a luz do céu entrar<br>Deixa a luz do céu entrar<br>Abre bem as portas do teu coração<br>E deixa a luz do céu entrar",
+        "Cristo, a luz do céu, em ti quer habitar<br>Para as trevas do pecado dissipar<br>Teu caminho e coração iluminar<br>E deixa a luz do céu entrar",
+        "Deixa a luz do céu entrar<br>Deixa a luz do céu entrar<br>Abre bem as portas do teu coração<br>E deixa a luz do céu entrar",
+        "Que alegria andar ao brilho dessa luz<br>Vida eterna e paz no coração produz<br>Ó, aceita agora o Salvador Jesus<br>E deixa a luz do céu entrar",
+        "Deixa a luz do céu entrar<br>Deixa a luz do céu entrar<br>Abre bem as portas do teu coração<br>E deixa a luz do céu entrar"
+      ]
+    },
+    {
+      "id": "deixa-a-bandeira-passar",
+      "name": "Deixa a Bandeira Passar",
+      "artist": "Músicas Católicas",
+      "youtube_url": "https://www.youtube.com/watch?v=fHXv3YjgNvw&t",
+      "cifra_url": "https://www.cifraclub.com.br/catolicas/deixa-a-bandeira-passar",
+      "content": [
+        "Vem nos tocar Santo Espírito<br>Vem espalhar teus encantos<br>Tua bandeira em paz vai partir<br>meu coração faz a porta se abrir",
+        "Deixa a bandeira passar<br>deixa a bandeira entrar<br>é o Espírito Santo, chegando, chegando<br>pra te abençoar<br>Junta tua família<br>e prepara teu lar<br>numa salva de flores<br>Promessas, louvores, vamos ofertar",
+        "Vem consolar teus aflitos<br>traz com teu manto a justiça<br>Muitos devotos se juntam a seguir<br>tua bandeira passagem vem pedir"
       ]
     }
   ]

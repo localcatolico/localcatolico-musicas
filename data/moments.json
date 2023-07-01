@@ -3,55 +3,39 @@
     {
       "id": "example",
       "name": "Exemplo Missa X",
-      "enabled": "true",
+      "enabled": "false",
       "summary": [
         {
           "moment": "Entrada",
-          "musics": [
-            ""
-          ]
+          "musics": []
         },
         {
           "moment": "Ato Penitencial",
-          "musics": [
-            ""
-          ]
+          "musics": []
         },
         {
           "moment": "Glória",
-          "musics": [
-            ""
-          ]
+          "musics": []
         },
         {
           "moment": "Aclamação ao Evangélio",
-          "musics": [
-            ""
-          ]
+          "musics": []
         },
         {
           "moment": "Ofertório",
-          "musics": [
-            ""
-          ]
+          "musics": []
         },
         {
           "moment": "Santo",
-          "musics": [
-            ""
-          ]
+          "musics": []
         },
         {
           "moment": "Comunhão",
-          "musics": [
-            ""
-          ]
+          "musics": []
         },
         {
           "moment": "Final",
-          "musics": [
-            ""
-          ]
+          "musics": []
         }
       ]
     },
@@ -63,49 +47,43 @@
         {
           "moment": "Entrada",
           "musics": [
-            ""
+            "bandeira-do-divino"
           ]
         },
         {
           "moment": "Ato Penitencial",
           "musics": [
-            ""
+            "conheco-um-coracao-marcelo-rossi"
           ]
         },
         {
           "moment": "Glória",
-          "musics": [
-            ""
-          ]
+          "musics": []
         },
         {
           "moment": "Aclamação ao Evangélio",
           "musics": [
-            ""
+            "deixa-a-luz-do-ceu-entrar"
           ]
         },
         {
           "moment": "Ofertório",
-          "musics": [
-            ""
-          ]
+          "musics": []
         },
         {
           "moment": "Santo",
-          "musics": [
-            ""
-          ]
+          "musics": []
         },
         {
           "moment": "Comunhão",
           "musics": [
-            ""
+            "divino-hospede"
           ]
         },
         {
           "moment": "Final",
           "musics": [
-            ""
+            "deixa-a-bandeira-passar"
           ]
         }
       ]

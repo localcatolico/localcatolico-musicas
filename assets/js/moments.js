@@ -20,6 +20,8 @@ function doMoments(moments, musics) {
   let html = "";
 
   for (var m of moments) {
+    if (m.enabled != "true"){ continue }
+
     html +=
       `<div class="accordion-item">
         <h2 class="accordion-header" id="` + m.id + `">
