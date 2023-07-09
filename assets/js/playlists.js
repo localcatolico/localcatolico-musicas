@@ -33,7 +33,7 @@ function doPlaylists(playlists, musics) {
           <div class="accordion-body">`;
 
     let music;
-    for (var s of m.summary) {
+    for (var s of p.summary) {
       html += `<h1>` + s.name + `</h1>`
       for (var m of s.musics) {
         music = findMusic(m, musics)
