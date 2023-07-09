@@ -1,8 +1,8 @@
-var moments;
-fetch("https://raw.githubusercontent.com/localcatolico/localcatolico-musicas/main/data/moments.json")
+var playlists;
+fetch("https://raw.githubusercontent.com/localcatolico/localcatolico-musicas/main/data/playlists.json")
   .then(res => res.json())
   .then(data => {
-    moments = data.moments;
+    playlists = data.playlists;
    })
   .then(() => {
     var musics;
@@ -12,24 +12,24 @@ fetch("https://raw.githubusercontent.com/localcatolico/localcatolico-musicas/mai
         musics = data.musics;
       })
       .then(() => {
-        doMoments(moments, musics);
+        doPlaylists(playlists, musics);
       });
    });
 
-function doMoments(moments, musics) {
+function doPlaylists(playlists, musics) {
   let html = "";
 
-  for (var m of moments) {
-    if (m.enabled != "true"){ continue }
+  for (var p of playlists) {
+    if (p.enabled != "true"){ continue }
 
     html +=
       `<div class="accordion-item">
-        <h2 class="accordion-header" id="` + m.id + `">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse` + m.id + `" aria-expanded="false" aria-controls=flush-collapse"` + m.id + `">
-            ` + m.name + `
+        <h2 class="accordion-header" id="` + p.id + `">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse` + p.id + `" aria-expanded="false" aria-controls=flush-collapse"` + p.id + `">
+            ` + p.name + `
           </button>
         </h2>
-        <div id="flush-collapse` + m.id + `" class="accordion-collapse collapse" aria-labelledby="` + m.id + `" data-bs-parent="#churchs">
+        <div id="flush-collapse` + p.id + `" class="accordion-collapse collapse" aria-labelledby="` + p.id + `" data-bs-parent="#churchs">
           <div class="accordion-body">`;
 
     let music;
@@ -50,7 +50,7 @@ function doMoments(moments, musics) {
       </div>`;
   }
 
-  document.getElementById("moments").innerHTML = html;
+  document.getElementById("playlists").innerHTML = html;
 }
 
 function findMusic(music, musics){

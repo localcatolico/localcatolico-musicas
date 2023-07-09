@@ -1,5 +1,5 @@
 {
-  "moments": [
+  "playlists": [
     {
       "id": "example",
       "name": "Exemplo Missa X",
@@ -85,6 +85,45 @@
           "musics": [
             "deixa-a-bandeira-passar"
           ]
+        }
+      ]
+    },
+    {
+      "id": "nossa-senhora-do-carmo",
+      "name": "Missa Nossa Senhora do Carmo",
+      "enabled": "true",
+      "summary": [
+        {
+          "name": "Entrada",
+          "musics": ["a-mae-do-carmelo"]
+        },
+        {
+          "name": "Ato Penitencial",
+          "musics": ["muito-perdoais-shalom"]
+        },
+        {
+          "name": "Glória",
+          "musics": []
+        },
+        {
+          "name": "Aclamação ao Evangélio",
+          "musics": ["aleluia-aleluia-aleluia"]
+        },
+        {
+          "name": "Ofertório",
+          "musics": ["daqui-do-meu-lugar-pe-zezinho"]
+        },
+        {
+          "name": "Santo",
+          "musics": ["santo-capella"]
+        },
+        {
+          "name": "Comunhão",
+          "musics": ["presenca-real-salette-ferreira"]
+        },
+        {
+          "name": "Final",
+          "musics": ["porta-do-ceu-eliana-ribeiro"]
         }
       ]
     }

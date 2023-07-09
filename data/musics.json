@@ -381,6 +381,82 @@
         "Deixa a bandeira passar<br>deixa a bandeira entrar<br>é o Espírito Santo, chegando, chegando<br>pra te abençoar<br>Junta tua família<br>e prepara teu lar<br>numa salva de flores<br>Promessas, louvores, vamos ofertar",
         "Vem consolar teus aflitos<br>traz com teu manto a justiça<br>Muitos devotos se juntam a seguir<br>tua bandeira passagem vem pedir"
       ]
+    },
+    {
+      "id": "a-mae-do-carmelo",
+      "name": "A Mãe do Carmelo",
+      "artist": "Músicas Católicas",
+      "youtube_url": "https://www.youtube.com/embed/fHXv3YjgNvw&t",
+      "cifra_url": "https://www.cifraclub.com.br/catolicas/deixa-a-bandeira-passar",
+      "content": [
+        "Óh! Minha Mãe do Carmelo<br>Sê sempre pra mim, Maria<br>Conduze-me pela mão<br>Nos caminhos desta vida",
+        "Ave Maria! Ave Maria!<br>Ave Maria! Ave Maria! (2x)"
+      ]
+    },
+    {
+      "id": "aleluia-aleluia-aleluia",
+      "name": "Aleluia, Aleluia, Aleluia, Aleluia",
+      "artist": "Músicas Católicas",
+      "youtube_url": "https://www.youtube.com/watch?v=KSOl5fe6MFk&t",
+      "cifra_url": "https://www.cifraclub.com.br/catolicas/aleluia-aleluia-aleluia-alelu-u-u-uia",
+      "content": [
+        "Aleluia, aleluia, aleluia, aleluuuuia"
+      ]
+    },
+    {
+      "id": "daqui-do-meu-lugar-pe-zezinho",
+      "name": "Daqui do Meu Lugar",
+      "artist": "Padre Zezinho",
+      "youtube_url": "https://www.youtube.com/watch?v=pdw5xVjMwKo",
+      "cifra_url": "https://www.cifraclub.com.br/padre-zezinho/daqui-do-meu-lugar",
+      "content": [
+        "Daqui do meu lugar, eu olho o teu altar<br>E fico a imaginar aquele pão, aquela refeição<br>Partiste aquele pão e o deste aos teus irmãos<br>Criaste a religião do pão do céu<br>Do pão que vem do céu",
+        "Somos a Igreja do pão<br>Do pão repartido, e do abraço e da paz (2x)",
+        "Daqui do meu lugar, eu olho o teu altar<br>E fico a imaginar aquela paz, aquela comunhão<br>Viveste aquela paz e a deste aos teus irmãos<br>Criaste a religião do pão da paz<br>Da paz que vem do céu",
+        "Somos a Igreja do pão<br>Do pão repartido, e do abraço e da paz (2x)"
+      ]
+    },
+    {
+      "id": "santo-capella",
+      "name": "Santo",
+      "artist": "Banda Capella",
+      "youtube_url": "https://www.youtube.com/watch?v=vzykmWYLToo,",
+      "cifra_url": "https://www.cifraclub.com.br/banda-capella/santo",
+      "content": [
+        "Santo, Santo, Santo é o Senhor, Senhor Deus do Universo<br>O céu e a terra proclamam a Vossa glória",
+        "Santo, Santo, Santo é o Senhor, Senhor Deus do Universo<br>O céu e a terra proclamam a Vossa glória<br>Hosana no alto céu",
+        "Bendito é aquele que vem em nome do Senhor<br>Hosana, Hosana no alto céu, Hosana, Hosana no alto céu",
+        "Santo, Santo, Santo é o Senhor, Senhor Deus do Universo<br>O céu e a terra proclamam a Vossa glória, Hosana no alto céu"
+      ]
+    },
+    {
+      "id": "presenca-real-salette-ferreira",
+      "name": "Presença Real",
+      "artist": "Salette Ferreira",
+      "youtube_url": "https://www.youtube.com/watch?v=vzykmWYLToo,",
+      "cifra_url": "https://www.cifraclub.com.br/banda-capella/santo",
+      "content": [
+        "Presença real na Hóstia Santa<br>Presença real de Cristo Jesus<br>Cordeiro imolado, puro e sem mancha<br>O cordeiro é o filho de Deus criador",
+        "Eu Te adoro, eu Te louvo, eu Te amo<br>Eu Te espero, meu Senhor",
+        "O pão que alimenta e dá vida eterna<br>O pão é o corpo de nosso Senhor<br>O vinho que salva e me dá coragem<br>O vinho é o sangue do meu redentor",
+        "Eu Te adoro, eu Te louvo, eu Te amo<br>Eu Te espero, meu Senhor",
+        "Presença real na Hóstia Santa<br>Presença real de Cristo Jesus<br>Que sob o véu do sacramento<br>Contemplo a face, do meu Salvador.",
+        "Eu Te adoro, eu Te louvo, eu Te amo<br>Eu Te espero, meu Senhor"
+      ]
+    },
+    {
+      "id": "porta-do-ceu-eliana-ribeiro",
+      "name": "Porta do Céu",
+      "artist": "Eliana Ribeiro",
+      "youtube_url": "https://www.youtube.com/watch?v=oP1u5PepUHY,",
+      "cifra_url": "https://www.cifraclub.com.br/eliana-ribeiro/porta-do-ceu",
+      "content": [
+        "Se a dor te toma por demais<br>Se o mundo não te crê jamais<br>Sabe, pois, que há alguém por ti<br>Orando, intercedendo, há sim!",
+        "Puro esplendor e amor de mãe<br>Sacrário vivo de Deus Pai<br>Em ti Maria eu encontrei<br>A vida que pra mim eu quis",
+        "Imaginei como seria o paraíso de Jesus<br>Com paz e harmonia em nossos corações<br>Pra sempre então seria eterno em louvor<br>Aquele que um dia veio e nos salvou",
+        "Ó Mãe santíssima, me leva a Deus<br>E pra sempre exultarei com cantos<br>Tenros de louvor, buscando a salvação",
+        "E nessa hora que eu te rogo aqui<br>Dentro em meu peito está a vontade<br>De te conhecer, Maria tu que és porta do céu"
+      ]
     }
   ]
 }
