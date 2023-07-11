@@ -126,6 +126,45 @@
           "musics": ["porta-do-ceu-eliana-ribeiro"]
         }
       ]
+    },
+    {
+      "id": "rafael-mateus",
+      "name": "Rafael Mateus",
+      "enabled": "true",
+      "summary": [
+        {
+          "name": "Entrada",
+          "musics": []
+        },
+        {
+          "name": "Ato Penitencial",
+          "musics": []
+        },
+        {
+          "name": "Glória",
+          "musics": []
+        },
+        {
+          "name": "Aclamação ao Evangélio",
+          "musics": []
+        },
+        {
+          "name": "Ofertório",
+          "musics": []
+        },
+        {
+          "name": "Santo",
+          "musics": []
+        },
+        {
+          "name": "Comunhão",
+          "musics": ["presenca-linda-netinho"]
+        },
+        {
+          "name": "Final",
+          "musics": []
+        }
+      ]
     }
   ]
 }
