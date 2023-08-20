@@ -19,8 +19,17 @@ fetch("https://raw.githubusercontent.com/localcatolico/localcatolico-musicas/mai
 function doPlaylists(playlists, musics) {
   let html = "";
 
+  var playlist = getURI();
+  console.log(playlist);
+
   for (var p of playlists) {
     if (p.enabled != "true"){ continue }
+
+    if (playlist != "") {
+      if (p.id != playlist){
+        continue
+      }
+    }
 
     html +=
       `<div class="accordion-item">
@@ -58,5 +67,11 @@ function findMusic(music, musics){
     if (m.id == music) {
       return m
     }
+  }
+}
+
+function getURI() {
+  if (window.location.search.split("q=").length != 0){
+    return window.location.search.split("q=")[1];
   }
 }
