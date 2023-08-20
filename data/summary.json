@@ -24,7 +24,8 @@
       "name": "Glória",
       "musics": [
         "louvemos-ao-senhor",
-        "hosana-hey"
+        "hosana-hey",
+        "gloria-amados-por-deus"
       ]
     },
     {
@@ -41,14 +42,15 @@
       "name": "Ofertório",
       "musics": [
         "a-ti-meu-deus",
-        "ser-conhecido-de-deus"
+        "ser-conhecido-de-deus",
+        "estar-em-tuas-maos"
       ]
     },
     {
       "id": "santo",
       "name": "Santo",
       "musics": [
-
+        "santo-senhor-deus-do-universo"
       ]
     },
     {
@@ -59,14 +61,16 @@
         "terra-seca-fraternidade-sao-joao-paulo-ii",
         "presenca-linda-netinho",
         "tomai-e-come",
-        "o-pao-da-vida-pe-zeca"
+        "o-pao-da-vida-pe-zeca",
+        "perfeito-quem-te-criou"
       ]
     },
     {
       "id": "final",
       "name": "Final",
       "musics": [
-        "que-santidade-de-vida"
+        "que-santidade-de-vida",
+        "maria-porta-do-ceu"
       ]
     }
   ]

@@ -25,7 +25,7 @@ function doPlaylists(playlists, musics) {
   for (var p of playlists) {
     if (p.enabled != "true"){ continue }
 
-    if (playlist != "") {
+    if (playlist) {
       if (p.id != playlist){
         continue
       }
@@ -38,8 +38,9 @@ function doPlaylists(playlists, musics) {
             ` + p.name + `
           </button>
         </h2>
-        <div id="flush-collapse` + p.id + `" class="accordion-collapse collapse" aria-labelledby="` + p.id + `" data-bs-parent="#churchs">
-          <div class="accordion-body">`;
+        <div id="flush-collapse` + p.id + `" class="accordion-collapse collapse show" aria-labelledby="` + p.id + `" data-bs-parent="#churchs">
+          <div class="accordion-body">
+            <a href="` + window.location.href + "?q="+ p.id + `">Compartilhar</a>`;
 
     let music;
     for (var s of p.summary) {
