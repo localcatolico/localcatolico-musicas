@@ -48,6 +48,13 @@ function doPlaylists(playlists, musics) {
       for (var m of s.musics) {
         music = findMusic(m, musics)
         html += `<h2>` + music.name + `</h2>`
+        if (music.cifra_url != "") {
+          html += `<a class="btn btn-sm btn-primary" href="` + music.cifra_url + `" target="_blank">Cifra</a>`
+        }
+        if (music.youtube_url != "") {
+          html += `<a class="btn btn-sm btn-danger" href="` + music.youtube_url + `" target="_blank">YouTube</a>`
+        }
+        html += `<br><br>`
         for (var c of music.content) {
           html += c + `<br><br>`
         }
