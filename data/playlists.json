@@ -165,6 +165,45 @@
           "musics": []
         }
       ]
+    },
+    {
+      "id": "assunção-nossa-senhora",
+      "name": "Missa Assunção Nossa Senhora",
+      "enabled": "true",
+      "summary": [
+        {
+          "name": "Entrada",
+          "musics": ["maria-pura-santa"]
+        },
+        {
+          "name": "Ato Penitencial",
+          "musics": ["senhor-que-vistes-salvar"]
+        },
+        {
+          "name": "Glória",
+          "musics": ["gloria-amados-por-deus"]
+        },
+        {
+          "name": "Aclamação ao Evangélio",
+          "musics": ["aleluia-aleluia-aleluia"]
+        },
+        {
+          "name": "Ofertório",
+          "musics": ["estar-em-tuas-maos"]
+        },
+        {
+          "name": "Santo",
+          "musics": ["santo-senhor-deus-do-universo"]
+        },
+        {
+          "name": "Comunhão",
+          "musics": ["perfeito-quem-te-criou"]
+        },
+        {
+          "name": "Final",
+          "musics": ["maria-porta-do-ceu"]
+        }
+      ]
     }
   ]
 }
