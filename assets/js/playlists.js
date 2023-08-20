@@ -40,7 +40,7 @@ function doPlaylists(playlists, musics) {
         </h2>
         <div id="flush-collapse` + p.id + `" class="accordion-collapse collapse show" aria-labelledby="` + p.id + `" data-bs-parent="#churchs">
           <div class="accordion-body">
-            <a href="` + window.location.href + "?q="+ p.id + `">Compartilhar</a>`;
+            <a href="` + window.location.search.split("?q=")[0] + "?q="+ p.id + `">Compartilhar</a>`;
 
     let music;
     for (var s of p.summary) {
