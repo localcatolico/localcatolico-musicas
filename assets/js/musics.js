@@ -16,7 +16,7 @@ function doMusics(musics) {
     html +=
       `<div class="accordion-item">
         <h2 class="accordion-header" id="` + music.id + `">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse` + music.id + `" aria-expanded="false" aria-controls=flush-collapse"` + music.id + `">
+          <button class="accordion-button collapsed" type="button" style="font-size: 20px" data-bs-toggle="collapse" data-bs-target="#flush-collapse` + music.id + `" aria-expanded="false" aria-controls=flush-collapse"` + music.id + `">
             ` + music.name + `<br>
             ` + music.artist + `
           </button>

@@ -420,7 +420,7 @@
       "id": "santo-capella",
       "name": "Santo",
       "artist": "Banda Capella",
-      "youtube_url": "https://www.youtube.com/watch?v=vzykmWYLToo,",
+      "youtube_url": "https://www.youtube.com/embed/vzykmWYLToo,",
       "cifra_url": "https://www.cifraclub.com.br/banda-capella/santo",
       "content": [
         "Santo, Santo, Santo é o Senhor, Senhor Deus do Universo<br>O céu e a terra proclamam a Vossa glória",
@@ -433,7 +433,7 @@
       "id": "presenca-real-salette-ferreira",
       "name": "Presença Real",
       "artist": "Salette Ferreira",
-      "youtube_url": "https://www.youtube.com/watch?v=vzykmWYLToo,",
+      "youtube_url": "https://www.youtube.com/embed/vzykmWYLToo,",
       "cifra_url": "https://www.cifraclub.com.br/banda-capella/santo",
       "content": [
         "Presença real na Hóstia Santa<br>Presença real de Cristo Jesus<br>Cordeiro imolado, puro e sem mancha<br>O cordeiro é o filho de Deus criador",
@@ -448,7 +448,7 @@
       "id": "porta-do-ceu-eliana-ribeiro",
       "name": "Porta do Céu",
       "artist": "Eliana Ribeiro",
-      "youtube_url": "https://www.youtube.com/watch?v=oP1u5PepUHY,",
+      "youtube_url": "https://www.youtube.com/embed/oP1u5PepUHY,",
       "cifra_url": "https://www.cifraclub.com.br/eliana-ribeiro/porta-do-ceu",
       "content": [
         "Se a dor te toma por demais<br>Se o mundo não te crê jamais<br>Sabe, pois, que há alguém por ti<br>Orando, intercedendo, há sim!",
@@ -462,7 +462,7 @@
       "id": "amados-por-deus-shalom",
       "name": "Amados Por Deus",
       "artist": "Comunidade Católica Shalom",
-      "youtube_url": "https://www.youtube.com/watch?v=oP1u5PepUHY,",
+      "youtube_url": "https://www.youtube.com/embed/oP1u5PepUHY,",
       "cifra_url": "https://www.cifraclub.com.br/eliana-ribeiro/porta-do-ceu",
       "content": [
         "Glória, ô glória a Deus nas alturas<br>Paz na terra aos homens amados<br>Glória, ô glória a Deus nas alturas",
@@ -476,7 +476,7 @@
       "id": "maria-pura-santa",
       "name": "Maria pura e Santa",
       "artist": "Católicas",
-      "youtube_url": "https://www.youtube.com/watch?v=2iufohIJFcg",
+      "youtube_url": "https://www.youtube.com/embed/=2iufohIJFcg",
       "cifra_url": "https://ritmodelouvor.com.br/cifra/render/REh6NHRuckxLQ01NMXQ1dHUwQ290S25Bb2I4S0IwTlgvZmF2b3JpdGUvcmVuZGVyLzA=",
       "content": [
         "MARIA PURA E SANTA AOS OLHOS DO SENHOR<br>POR DEUS FOSTE ESCOLHIDA PRA SERES MÃE DA VIDA, MÃE DO SALVADOR.",
@@ -491,7 +491,7 @@
       "id": "senhor-que-vistes-salvar",
       "name": "Senhor que Vistes Salvar",
       "artist": "Padre Zeca",
-      "youtube_url": "https://www.youtube.com/watch?v=5YRbz4NXGtA&t",
+      "youtube_url": "https://www.youtube.com/embed/5YRbz4NXGtA&t",
       "cifra_url": "https://www.cifraclub.com.br/padre-zeca/senhor-que-vieste-salvar",
       "content": [
         "Senhor que viestes salvar<br>Os corações arrependidos<br>Piedade, Piedade<br>Piedade de nós<br>Piedade, Piedade<br>Piedade de nós",
@@ -503,7 +503,7 @@
       "id": "gloria-amados-por-deus",
       "name": "Amados por Deus",
       "artist": "Comunidade Católica Shalom",
-      "youtube_url": "https://www.youtube.com/watch?v=EdjWIae3ZgE",
+      "youtube_url": "https://www.youtube.com/embed/EdjWIae3ZgE",
       "cifra_url": "https://www.cifraclub.com.br/comunidade-catolica-shalom/amados-por-deus-gloria-shalom",
       "content": [
         "Glória, ô gloria a Deus nas alturas<br>Paz na terra aos homens amados<br>Glória, ô gloria a Deus nas alturas<br>Paz na Terra aos homens amados por Deus",
@@ -518,7 +518,7 @@
       "id": "estar-em-tuas-maos",
       "name": "Estar em Tuas Mãos",
       "artist": "Comunidade Católica Shalom",
-      "youtube_url": "https://www.youtube.com/watch?v=hX38o6o0AvY",
+      "youtube_url": "https://www.youtube.com/embed/hX38o6o0AvY",
       "cifra_url": "https://www.cifraclub.com.br/comunidade-catolica-shalom/estar-em-tuas-maos",
       "content": [
         "Mão na terra e o coração além desde céu<br>E a semente que brota é um germe de eternidade<br>Vai brotando, crescendo, esperando, é a vida que vem despontar<br>E este trigo maduro, a colheita o recolherá",
@@ -533,7 +533,7 @@
       "id": "perfeito-quem-te-criou",
       "name": "Perfeito Quem te Criou",
       "artist": "Vida Reluz",
-      "youtube_url": "https://www.youtube.com/watch?v=S6udRo0NX8g",
+      "youtube_url": "https://www.youtube.com/embed/S6udRo0NX8g",
       "cifra_url": "https://www.cifraclub.com.br/vida-reluz/perfeito-quem-te-criou",
       "content": [
         "Se um dia um anjo declarou<br>Que tu eras cheia de Deus<br>Agora penso: Quem sou eu<br>Para não te dizer também",
@@ -549,7 +549,7 @@
       "id": "maria-porta-do-ceu",
       "name": "Maria Porta do Céu",
       "artist": "Alvaro e Daniel",
-      "youtube_url": "https://www.youtube.com/watch?v=d_wV56h24pU",
+      "youtube_url": "https://www.youtube.com/embed/d_wV56h24pU",
       "cifra_url": "https://www.cifraclub.com.br/alvaro-daniel/maria-porta-do-ceu",
       "content": [
         "São Gabriel, com Maria<br>São Rafael, com Tobias<br>São Miguel, com todas as hierarquias<br>Abre pra nós, esta via",
@@ -560,7 +560,7 @@
       "id": "santo-senhor-deus-do-universo",
       "name": "Santo, Senhor Deus do Universo",
       "artist": "Músicas Católicas",
-      "youtube_url": "https://www.youtube.com/watch?v=ysj8Sub2q2A",
+      "youtube_url": "https://www.youtube.com/embed/ysj8Sub2q2A",
       "cifra_url": "https://www.cifraclub.com.br/catolicas/santo-senhor-deus-do-universo",
       "content": [
         "Santo, Santo, Santo!<br>Senhor Deus do universo<br>O céu e a terra proclamam<br>A vossa glória!",
