@@ -204,6 +204,39 @@
           "musics": ["maria-porta-do-ceu"]
         }
       ]
+    },
+    {
+      "id": "retiro",
+      "name": "Retiro",
+      "enabled": "true",
+      "summary": [
+        {
+          "name": "Acolhida",
+          "musics": [
+            "reunimo-nos-aqui-kemuel",
+            "a-casa-e-sua"
+          ]
+        },
+        {
+          "name": "Espírito Santo",
+          "musics": [
+            "o-ceu-se-abre-walmir-alencar",
+            "vem-espirito-renascer-praise",
+            "queima-de-novo",
+            "sou-casa",
+            "em-espirito-em-verdade"
+          ]
+        },
+        {
+          "name": "Meditação",
+          "musics": [
+            "yeshua",
+            "lindo-es",
+            "ao-unico-aline-barros",
+            "quao-formoso-es"
+          ]
+        }
+      ]
     }
   ]
 }
