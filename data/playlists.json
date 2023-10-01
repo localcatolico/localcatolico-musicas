@@ -237,6 +237,45 @@
           ]
         }
       ]
+    },
+    {
+      "id": "missa-santa-terezinha",
+      "name": "Missa Santa Terezinha",
+      "enabled": "true",
+      "summary": [
+        {
+          "name": "Entrada",
+          "musics": ["meu-ceu"]
+        },
+        {
+          "name": "Ato Penitencial",
+          "musics": ["senhor-que-vistes-salvar"]
+        },
+        {
+          "name": "Glória",
+          "musics": ["gloria-gloria-anjos-do-ceu"]
+        },
+        {
+          "name": "Aclamação ao Evangélio",
+          "musics": ["aleluia-aleluia-aleluia"]
+        },
+        {
+          "name": "Ofertório",
+          "musics": ["es-o-sentido""]
+        },
+        {
+          "name": "Santo",
+          "musics": ["santo-capella"]
+        },
+        {
+          "name": "Comunhão",
+          "musics": ["vivo-de-misericordia"]
+        },
+        {
+          "name": "Final",
+          "musics": []
+        }
+      ]
     }
   ]
 }
