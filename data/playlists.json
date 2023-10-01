@@ -245,7 +245,7 @@
       "summary": [
         {
           "name": "Entrada",
-          "musics": ["meu-ceu"]
+          "musics": ["chuva-de-graca-eliana-ribeiro"]
         },
         {
           "name": "Ato Penitencial",
@@ -272,8 +272,12 @@
           "musics": ["vivo-de-misericordia"]
         },
         {
+          "name": "Ação de Graças",
+          "musics": ["meu-ceu"]
+        },
+        {
           "name": "Final",
-          "musics": ["chuva-de-graca-eliana-ribeiro"]
+          "musics": ["eterno-ceu-shalom"]
         }
       ]
     }
