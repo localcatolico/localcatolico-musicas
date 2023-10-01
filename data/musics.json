@@ -397,7 +397,7 @@
       "id": "aleluia-aleluia-aleluia",
       "name": "Aleluia, Aleluia, Aleluia, Aleluia",
       "artist": "Músicas Católicas",
-      "youtube_url": "https://www.youtube.com/watch?v=KSOl5fe6MFk&t",
+        "youtube_url": "https://www.youtube.com/embed/KSOl5fe6MFk&t",
       "cifra_url": "https://www.cifraclub.com.br/catolicas/aleluia-aleluia-aleluia-alelu-u-u-uia",
       "content": [
         "Aleluia, aleluia, aleluia, aleluuuuia"
@@ -407,7 +407,7 @@
       "id": "daqui-do-meu-lugar-pe-zezinho",
       "name": "Daqui do Meu Lugar",
       "artist": "Padre Zezinho",
-      "youtube_url": "https://www.youtube.com/watch?v=pdw5xVjMwKo",
+      "youtube_url": "https://www.youtube.com/embed/pdw5xVjMwKo",
       "cifra_url": "https://www.cifraclub.com.br/padre-zezinho/daqui-do-meu-lugar",
       "content": [
         "Daqui do meu lugar, eu olho o teu altar<br>E fico a imaginar aquele pão, aquela refeição<br>Partiste aquele pão e o deste aos teus irmãos<br>Criaste a religião do pão do céu<br>Do pão que vem do céu",
@@ -433,7 +433,7 @@
       "id": "presenca-real-salette-ferreira",
       "name": "Presença Real",
       "artist": "Salette Ferreira",
-      "youtube_url": "https://www.youtube.com/embed/vzykmWYLToo,",
+      "youtube_url": "https://www.youtube.com/embed/vzykmWYLToo",
       "cifra_url": "https://www.cifraclub.com.br/banda-capella/santo",
       "content": [
         "Presença real na Hóstia Santa<br>Presença real de Cristo Jesus<br>Cordeiro imolado, puro e sem mancha<br>O cordeiro é o filho de Deus criador",
@@ -696,6 +696,63 @@
       "content": [
         "Quão formoso és, rei do universo<br>Tua glória enche a terra e enche o céu<br>Tua glória enche a terra, Tua glória enche o céu<br>Tua glória enche minha vida, Senhor",
         "Maravilhoso é estar em Tua presença<br>Maravilhoso é poder Te adorar<br>Maravilhoso é tocar em Tuas vestes<br>Maravilhoso é Te contemplar, Senhor"
+      ]
+    },
+    {
+      "id": "meu-ceu",
+      "name": "Meu Céu (Santa Terezinha)",
+      "artist": "Irmã Míria T. Kolling",
+      "youtube_url": "https://www.youtube.com/embed/wqY6X0Bzc5U",
+      "cifra_url": "https://www.cifraclub.com.br/irma-miria-t-kolling/meu-ceu",
+      "content": [
+        "Passarei o meu céu fazendo o bem sobre a Terra<br>Junto a Deus, com os anjos, rosas distribuirei<br>Cada flor, meu amor, tocando o amor de Jesus",
+        "Uma chuva de rosas mandarei sobre a terra<br>Graças de amor do meu Senhor, flores do coração",
+        "Infeliz lá no céu seria eu, não pudesse<br>Promover alegrias aos que amo aqui<br>Quero, sim, até o fim, meu céu na terra passar"
+      ]
+    },
+    {
+      "id": "gloria-gloria-anjos-do-ceu",
+      "name": "Glória, Glória Anjos do Céu",
+      "artist": "Músicas Católicas",
+      "youtube_url": "https://www.youtube.com/embed/sNI-zMtH_ew",
+      "cifra_url": "https://www.cifraclub.com.br/igreja-catolica-nossa-senhora-da-salete/gloria-anjos-no-ceu",
+      "content": [
+        "Glória, glória, anjos do céu<br>Cantam todos Seu amor<br>E na terra, homens de paz<br>Deus merece o louvor",
+        "Deus e Pai, nós Vos louvamos<br>Adoramos, bendizemos<br>Damos glória ao Vosso nome<br>Vossos dons agradecemos",
+        "Glória, glória, anjos do céu<br>Cantam todos Seu amor<br>E na terra, homens de paz<br>Deus merece o louvor",
+        "Senhor nosso, Jesus Cristo<br>Unigênito do Pai<br>Vós de Deus Cordeiro Santo<br>Nossas culpas perdoai",
+        "Glória, glória, anjos do céu<br>Cantam todos Seu amor<br>E na terra, homens de paz<br>Deus merece o louvor",
+        "Vós que estais junto do Pai<br>Como nosso intercessor<br>Acolhei nossos pedidos<br>Atendei nosso clamor",
+        "Glória, glória, anjos do céu<br>Cantam todos Seu amor<br>E na terra, homens de paz<br>Deus merece o louvor",
+        "Vós somente sois o Santo<br>O Altíssimo, o Senhor<br>Com o espírito divino<br>De Deus Pai no esplendor",
+        "Glória, glória, anjos do céu<br>Cantam todos Seu amor<br>E na terra, homens de paz<br>Deus merece o louvor"
+      ]
+    },
+    {
+      "id": "es-o-sentido",
+      "name": "És o Sentido",
+      "artist": "Suely Façanha",
+      "youtube_url": "https://www.youtube.com/embed/NUxcvYdn0JQ",
+      "cifra_url": "https://www.cifraclub.com.br/suely-facanha/es-o-sentido",
+      "content": [
+        "Quero te dar meu coração<br>À luz de uma nova decisão<br>De amar-te mais que a tudo<br>Que um dia eu possa ter",
+        "Abraçando então o que é real<br>Provando e amando o essencial<br>E escrevendo a nova história<br>Vivendo em teu amor",
+        "Minha vida é toda tua<br>Os meus planos, os meus sonhos<br>De nada vale o existir<br>Se não for pra te ofertar",
+        "E em cada passo descobrir<br>Que o tempo esconde o que é eterno<br>Que tu és o sentido<br>Ó meu Senhor de tudo"
+      ]
+    },
+    {
+      "id": "vivo-de-misericordia",
+      "name": "Vivo de Misericórdia",
+      "artist": "Comunidade Católica Shalom",
+      "youtube_url": "https://www.youtube.com/embed/kpDBxC3HSnQ",
+      "cifra_url": "hhttps://www.cifraclub.com.br/comunidade-catolica-shalom/vivo-de-misericordia",
+      "content": [
+        "Senhor, meu coração não se elevou<br>Nem se encheu de orgulho<br>Pois, vejo minha condição<br>Reconheço que não há então",
+        "Mérito algum, pois vivo de misericórdia<br>Enfim<br>Grandezas não procuro<br>Nem coisas... superiores a mim",
+        "Por isso eu ponho em ti<br>Minha esperança, oh, Senhor<br>Agora e para sempre<br>Mantenho a calma, sossego a alma<br>E deixo conduzir, ponho em ti<br>Minha esperança, oh, Senhor<br>Agora e para sempre<br>Mantenho a calma, sossego a alma<br>Pois, confio em ti...",
+        "Como criança me aquieto em teus braços, Senhor<br>Pois, sereno e tranquilo<br>Me sacio em teu amor...",
+        "Por isso eu ponho em ti<br>Minha esperança, oh, Senhor<br>Agora e para sempre<br>Mantenho a calma, sossego a alma<br>E deixo conduzir, ponho em ti<br>Minha esperança, oh, Senhor<br>Agora e para sempre<br>Mantenho a calma, sossego a alma<br>Pois, confio em ti..."
       ]
     }
   ]
