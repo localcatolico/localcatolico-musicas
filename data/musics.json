@@ -4,8 +4,8 @@
       "id": "template-empty",
       "name": "",
       "artist": "",
-      "youtube_url": "",
-      "cifra_url": "",
+      "youtube_url": "https://www.youtube.com/embed/",
+      "cifra_url": "https://www.cifraclub.com.br/",
       "content": [
         "",
         ""
@@ -746,13 +746,26 @@
       "name": "Vivo de Misericórdia",
       "artist": "Comunidade Católica Shalom",
       "youtube_url": "https://www.youtube.com/embed/kpDBxC3HSnQ",
-      "cifra_url": "hhttps://www.cifraclub.com.br/comunidade-catolica-shalom/vivo-de-misericordia",
+      "cifra_url": "https://www.cifraclub.com.br/comunidade-catolica-shalom/vivo-de-misericordia",
       "content": [
         "Senhor, meu coração não se elevou<br>Nem se encheu de orgulho<br>Pois, vejo minha condição<br>Reconheço que não há então",
         "Mérito algum, pois vivo de misericórdia<br>Enfim<br>Grandezas não procuro<br>Nem coisas... superiores a mim",
         "Por isso eu ponho em ti<br>Minha esperança, oh, Senhor<br>Agora e para sempre<br>Mantenho a calma, sossego a alma<br>E deixo conduzir, ponho em ti<br>Minha esperança, oh, Senhor<br>Agora e para sempre<br>Mantenho a calma, sossego a alma<br>Pois, confio em ti...",
         "Como criança me aquieto em teus braços, Senhor<br>Pois, sereno e tranquilo<br>Me sacio em teu amor...",
         "Por isso eu ponho em ti<br>Minha esperança, oh, Senhor<br>Agora e para sempre<br>Mantenho a calma, sossego a alma<br>E deixo conduzir, ponho em ti<br>Minha esperança, oh, Senhor<br>Agora e para sempre<br>Mantenho a calma, sossego a alma<br>Pois, confio em ti..."
+      ]
+    },
+    {
+      "id": "chuva-de-graca-eliana-ribeiro",
+      "name": "Chuva de Graça",
+      "artist": "Eliana Ribeiro",
+      "youtube_url": "https://www.youtube.com/embed/",
+      "cifra_url": "https://www.cifraclub.com.br/",
+      "content": [
+        "Chuva de graça pedimos a Ti<br>Chuva de graça, derrama em nós<br>Chuva de graça neste lugar<br>Derrama<br>",
+        "Há uma chuva de graça aqui<br>Está chovendo sobre todos nós<br>E quem mais se entregar<br>Mais se molhará",
+        "Há uma semente pra germinar<br>E muitos frutos a se produzir<br>Na terra do coração<br>Derrama tua graça",
+        "Chuva de graça pedimos a Ti<br>Chuva de graça, derrama em nós<br>Chuva de graça neste lugar<br>Derrama (2x)"
       ]
     }
   ]
