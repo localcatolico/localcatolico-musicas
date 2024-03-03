@@ -829,5 +829,36 @@
         "E eu, eu nada sou sem Ti, Jesus<br>E eu, perdido estou sem Ti (2x)"
       ]
     },
+    {
+      "id": "cordeiro-jardel",
+      "name": "Cordeiro",
+      "artist": "Jardel",
+      "youtube_url": "",
+      "cifra_url": "",
+      "content": [
+        "Cordeiro de Deus, que tirais o pecado do mundo<br>Tende piedade\nPiedade de nós (2x)",
+        "Cordeiro de Deus, que tirais o pecado do mundo<br>Dai-nos a paz\nA Vossa paz"
+      ]
+    },
+    {
+      "id": "nada-nos-separara-davidson-silva",
+      "name": "Nada nos separará",
+      "artist": "Davidson Silva",
+      "youtube_url": "https://www.youtube.com/embed/23Qk83zUodk",
+      "cifra_url": "https://www.cifraclub.com.br/davidson-silva/nada-nos-separara",
+      "content":[
+        "Meu coração é teu senhor<br>Nada nos superará<br>Meu coração é teu senhor<br>Nada nos separará",
+        "Nem mesmo as quedas<br>Minha lentidão, podem nos separar<br>Sou todo teu, amado meu<br>Quem ousará em nos separar",
+        "Nem a morte, a perseguição<br>A angústia, a desolação, vão nos separar<br>Pois sou todo teu",
+        "Meu coração é teu senhor<br>Nada nos superará<br>Meu coração é teu senhor<br>Nada nos separará",
+        "Nem mesmo as quedas<br>Minha lentidão, podem nos separar<br>Sou todo teu, amado meu<br>Quem ousará em nos separar",
+        "Nem a morte, a perseguição<br>A angústia, a desolação, vão nos separar<br>Pois sou todo teu",
+        "Sou todo teu, amado meu<br>Quem ousará em nos separar",
+        "Nem a morte, a perseguição<br>A angústia, a desolação vão nos separar<br>Pois sou todo teu",
+        "Sou todo teu amado meu<br>Quem ousará em nos separar",
+        "Nem a morte, a perseguição<br>A angústia, a desolação, vão nos separar<br>Pois sou todo teu",
+        "Sou todo teu, amado meu<br>Quem ousará em nos separar<br>Nada nos separará!"
+      ]
+    },
   ]
 }
