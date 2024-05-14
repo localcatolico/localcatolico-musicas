@@ -40,6 +40,49 @@
       ]
     },
     {
+      "id": "pentecostes",
+      "name": "Pentecostes",
+      "enabled": "true",
+      "summary": [
+        {
+          "name": "Entrada",
+          "musics": [
+            "deixa-a-luz-do-ceu-entrar",
+            "o-ceu-se-abre-walmir-alencar",
+            "templo-vivo"
+          ]
+        },
+        {
+          "name": "Ato Penitencial",
+          "musics": ["muito-perdoais-shalom"]
+        },
+        {
+          "name": "Glória",
+          "musics": []
+        },
+        {
+          "name": "Aclamação ao Evangélio",
+          "musics": ["a-nos-descei-divina-luz"]
+        },
+        {
+          "name": "Ofertório",
+          "musics": []
+        },
+        {
+          "name": "Santo",
+          "musics": ["santo-capella"]
+        },
+        {
+          "name": "Comunhão",
+          "musics": ["divino-hospede"]
+        },
+        {
+          "name": "Final",
+          "musics": ["eu-navegarei"]
+        }
+      ]
+    },
+    {
       "id": "festa-divino",
       "name": "Festa do Divino",
       "enabled": "true",
