@@ -8,24 +8,34 @@
         "o-povo-de-deus-pe-zezinho",
         "tu-me-guias-dany-grace",
         "porque-ele-vive",
-        "a-nos-descei-divina-luz"
+        "es-o-sentido",
+        "a-nos-descei-divina-luz",
+        "sou-casa",
+        "reunimo-nos-aqui-kemuel",
+        "a-casa-e-sua",
+        "chuva-de-graca-eliana-ribeiro"
       ]
     },
     {
       "id": "ato-penitencial",
       "name": "Ato Penitencial",
       "musics": [
+        "misericordia-senhor-cancao-nova",
         "como-a-ovelha-perdida-catolicas",
-        "muito-perdoais-shalom"
+        "muito-perdoais-shalom",
+        "perdao-senhor-catolicas",
+        "conheco-um-coracao-marcelo-rossi",
+        "senhor-que-vistes-salvar"
       ]
     },
     {
       "id": "gloria",
       "name": "Glória",
       "musics": [
+        "amados-por-deus-shalom",
         "louvemos-ao-senhor",
-        "hosana-hey",
-        "gloria-amados-por-deus"
+        "gloria-gloria-anjos-do-ceu",
+        "hosana-hey"
       ]
     },
     {
@@ -34,7 +44,10 @@
       "musics": [
         "buscai-primeiro",
         "ao-ouvir-tua-voz-shalom",
-        "a-nos-descei-divina-luz"
+        "a-nos-descei-divina-luz",
+        "deixa-a-luz-do-ceu-entrar",
+        "aleluia-aleluia-aleluia",
+        "fala-senhor"
       ]
     },
     {
@@ -43,34 +56,52 @@
       "musics": [
         "a-ti-meu-deus",
         "ser-conhecido-de-deus",
-        "estar-em-tuas-maos"
+        "estar-em-tuas-maos",
+        "te-dou-meu-coracao",
+        "meu-respirar-nivea-soares",
+        "nada-nos-separara-davidson-silva"
       ]
     },
     {
       "id": "santo",
       "name": "Santo",
       "musics": [
-        "santo-senhor-deus-do-universo"
+        "santo-senhor-deus-do-universo",
+        "santo-capella"
       ]
     },
     {
       "id": "comunhao",
       "name": "Comunhão",
       "musics": [
+        "presenca-real-salette-ferreira",
         "estas-entre-nos",
         "terra-seca-fraternidade-sao-joao-paulo-ii",
         "presenca-linda-netinho",
         "tomai-e-come",
         "o-pao-da-vida-pe-zeca",
-        "perfeito-quem-te-criou"
+        "perfeito-quem-te-criou",
+        "ha-um-barco-esquecido-na-praia",
+        "divino-hospede",
+        "daqui-do-meu-lugar-pe-zezinho",
+        "oracao-sao-francisco-fagner"
       ]
     },
     {
       "id": "final",
       "name": "Final",
       "musics": [
+        "meu-ceu",
         "que-santidade-de-vida",
-        "maria-porta-do-ceu"
+        "maria-porta-do-ceu",
+        "terra-seca-fraternidade-sao-joao-paulo-ii",
+        "porta-do-ceu-eliana-ribeiro",
+        "maria-pura-santa",
+        "chuva-de-graca-eliana-ribeiro",
+        "eterno-ceu-shalom",
+        "civilizacao-do-amor",
+        "templo-vivo",
+        "busque-o-alto"
       ]
     }
   ]

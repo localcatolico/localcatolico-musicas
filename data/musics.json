@@ -397,7 +397,7 @@
       "id": "aleluia-aleluia-aleluia",
       "name": "Aleluia, Aleluia, Aleluia, Aleluia",
       "artist": "Músicas Católicas",
-        "youtube_url": "https://www.youtube.com/embed/KSOl5fe6MFk&t",
+      "youtube_url": "https://www.youtube.com/embed/KSOl5fe6MFk&t",
       "cifra_url": "https://www.cifraclub.com.br/catolicas/aleluia-aleluia-aleluia-alelu-u-u-uia",
       "content": [
         "Aleluia, aleluia, aleluia, aleluuuuia"
@@ -497,21 +497,6 @@
         "Senhor que viestes salvar<br>Os corações arrependidos<br>Piedade, Piedade<br>Piedade de nós<br>Piedade, Piedade<br>Piedade de nós",
         "Ó, Cristo que viestes chamar<br>Os pecadores humilhados<br>Piedade, Piedade<br>Piedade de nós<br>Piedade, Piedade<br>Piedade de nós",
         "Senhor que intercedeis por nós<br>Junto a Deus Pai que nos perdoa<br>Piedade, Piedade<br>Piedade de nós<br>Piedade, Piedade<br>Piedade de nós"
-      ]
-    },
-    {
-      "id": "gloria-amados-por-deus",
-      "name": "Amados por Deus",
-      "artist": "Comunidade Católica Shalom",
-      "youtube_url": "https://www.youtube.com/embed/EdjWIae3ZgE",
-      "cifra_url": "https://www.cifraclub.com.br/comunidade-catolica-shalom/amados-por-deus-gloria-shalom",
-      "content": [
-        "Glória, ô gloria a Deus nas alturas<br>Paz na terra aos homens amados<br>Glória, ô gloria a Deus nas alturas<br>Paz na Terra aos homens amados por Deus",
-        "Senhor Deus, Rei dos Céus<br>Deus Pai, Onipotente<br>Nós vos louvamos, vos bendizemos<br>Adoramos, glorificamos, vos damos graças<br>Por Vossa Imensa Glória",
-        "Senhor Jesus Cristo, Filho Unigenito<br>Senhor Deus, Cordeiro de Deus<br>Filho de Deus Pai",
-        "Vós que tirais o pecado do mundo<br>Tende piedade de nós<br>Vós que tirais o pecado do mundo<br>Acolhei a nossa súplica<br>Vós que estais à direita do Pai<br>Tende piedade de nós",
-        "Só vós sois o Santo<br>Só vós o Senhor<br>O Altíssimo Jesus Cristo<br>Com o Espírito Santo<br>Na glória de Deus Pai, amém",
-        "Glória, ô gloria a Deus nas alturas<br>Paz na terra aos homens amados<br>Glória, ô gloria a Deus nas alturas<br>Paz na terra aos homens amados por Deus<br>Aos homens amados por Deus<br>Aos homens amados por Deus"
       ]
     },
     {
@@ -909,6 +894,22 @@
         "Espírito, Espírito<br>Que desce como fogo<br>Vem como em pentecostes<br>E enche-me de novo (2x)",
         "Eu adorarei<br>Ao Deus da minha vida<br>Que me compreendeu<br>Sem nenhuma explicação",
         "Espírito, Espírito<br>Que desce como fogo<br>Vem como em pentecostes<br>E enche-me de novo (2x)"
+      ]
+    },
+    {
+      "id": "busque-o-alto",
+      "name": "Busque o Alto",
+      "artist": "Celina Borges",
+      "youtube_url": "https://www.youtube.com/embed/GlgI8o4kwio",
+      "cifra_url": "https://www.cifraclub.com.br/celina-borges/busque-alto",
+      "content": [
+        "Uma vida nova em Cristo<br>Venha experimentar<br>E de coração rendido<br>Dia a dia se entregar",
+        "Com os olhos para o alto<br>Daqui menos depender<br>Para o mundo estamos mortos<br>Nossa vida escondida está em Deus",
+        "Nasci pro céu<br>Olhe, olhe mais longe<br>Além do mundo, voe pro céu<br>Busque, busque o alto<br>Por sobre a vida, veja o trono<br>Onde está Deus",
+        "Vem do céu essa alegria<br>Que me faz compreender<br>Ver além da agonia<br>E é certo, eu vou vencer",
+        "Se levante para Cristo<br>Não se arraste mais ao chão<br>Meu irmão, cabeça erguida<br>Ele traz a nova vida<br>O amor e o perdão",
+        "Olhe pro céu<br>Olhe, olhe mais longe<br>Além do mundo, voe pro céu<br>Busque, busque o alto<br>Por sobre a vida, veja o trono<br>Onde está Deus",
+        "Se importando, ressuscitastes<br>Buscai tudo que está no alto<br>Onde Cristo é tudo em todos<br>Vem (À vida nova)"
       ]
     }
   ]
