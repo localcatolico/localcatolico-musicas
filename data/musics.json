@@ -6,10 +6,169 @@
       "artist": "",
       "youtube_url": "https://www.youtube.com/embed/",
       "cifra_url": "https://www.cifraclub.com.br/",
-      "letra_url": "https://www.cifraclub.com.br/",
+      "letra_url": "https://www.letras.mus.br/",
       "content": [
         "",
         ""
+      ]
+    },
+    {
+      "id": "a-barca",
+      "name": "A Barca",
+      "artist": "Músicas Católicas",
+      "youtube_url": "https://www.youtube.com/embed/qb1wRdafWcc",
+      "cifra_url": "https://www.cifraclub.com.br/catolicas/a-barca",
+      "letra_url": "https://www.letras.mus.br/",
+      "content": [
+        "Tu te abeiraste da praia<br>Não buscaste nem sábios, nem ricos<br>Somente queres que eu te siga",
+        "Senhor, Tu me olhaste nos olhos<br>A sorrir, pronunciaste meu nome<br>Lá na praia, eu deixei o meu barco<br>Junto a Ti, buscarei outro mar",
+        "Tu sabes bem que em meu barco<br>Eu não tenho espadas nem ouro<br>Somente redes e o meu trabalho",
+        "Senhor, Tu me olhaste nos olhos<br>A sorrir, pronunciaste meu nome<br>Lá na praia, eu deixei o meu barco<br>Junto a Ti, buscarei outro mar",
+        "Tu, minhas mãos solicitas<br>Meu cansaço que a outros descanse<br>Amor que almeja seguir amando",
+        "Senhor, Tu me olhaste nos olhos<br>A sorrir, pronunciaste meu nome<br>Lá na praia, eu deixei o meu barco<br>Junto a Ti, buscarei outro mar",
+        "Tu, pescador de outros lagos<br>Ânsia eterna de almas que esperam<br>Bondoso amigo, assim me chamas",
+        "Senhor, Tu me olhaste nos olhos<br>A sorrir, pronunciaste meu nome<br>Lá na praia, eu deixei o meu barco<br>Junto a Ti, buscarei outro mar"
+      ]
+    },
+    {
+      "id": "sobe-a-jerusalem",
+      "name": "Sobe a Jerusalém",
+      "artist": "Músicas Católicas",
+      "youtube_url": "https://www.youtube.com/embed/bJNgr48GGmI",
+      "cifra_url": "https://www.cifraclub.com.br/catolicas/sobe-jerusalem",
+      "letra_url": "https://www.letras.mus.br/waldeci-braga/1245145/",
+      "content": [
+        "Sobe a Jerusalém, Virgem oferente sem igual<br>Vai apresenta ao Pai, teu Menino: Luz que chegou no Natal<br>E, junto à sua cruz, quando Deus morrer, fica de pé<br>Sim, Ele te salvou, mas o ofereceste por nós com toda fé",
+        "Nós vamos renovar este sacrifício de Jesus<br>Morte e ressurreição, vida que brotou de sua oferta na cruz<br>Mãe, vem nos ensinar a fazer da vida uma oblação<br>Culto agradável a Deus é fazer a oferta do próprio coração"
+      ]
+    },
+    {
+      "id": "tu-es-fhop",
+      "name": "Tu És",
+      "artist": "Florianópolis House Of Prayer",
+      "youtube_url": "https://www.youtube.com/embed/YXnQ02HYB1w",
+      "cifra_url": "https://www.cifraclub.com.br/florianopolis-house-of-prayer/tu-es-aguas-purificadoras",
+      "letra_url": "https://www.letras.mus.br/florianopolis-house-of-prayer/tu-es",
+      "content": [
+        "Junto ao poço estava eu<br>Quando um homem judeu<br>Viu a sede que havia em mim<br>Sem me ouvir, conheceu<br>E me ofereceu uma água que jorra sem fim",
+        "Dá-me de beber, pois tenho sede<br>Não quero mais buscar em outras fontes<br>Não precisarei aqui voltar pra minha sede saciar<br>Uma vez que eu já ouvi Teu falar",
+        "Tu és por quem a minh'alma esperou<br>A fonte da vida que me encontrou<br>És o dom de Deus, o Messias<br>O meu Salvador"
+      ]
+    },
+    {
+      "id": "minha-essencia-thiago-brado",
+      "name": "Minha Essência",
+      "artist": "Thiago Brado",
+      "youtube_url": "https://www.youtube.com/embed/bklas0_vUg4",
+      "cifra_url": "https://www.cifraclub.com.br/thiago-brado/minha-essencia",
+      "letra_url": "https://www.letras.mus.br/",
+      "content": [
+        "Vim até aqui, derramar o meu passado em Ti<br>Vim banhar os pés que andaram por aí<br>Sem carinho receber<br>Hoje estou aqui, não porque mereço, eu sei<br>Pois Tu sabes por onde eu andei<br>Conheces bem o meu perfume",
+        "Mas Tu sabes também<br>Que o meu choro é sincero, porém<br>Não tenho nada a oferecer, meu Senhor<br>Mas Te dou a minha vida",
+        "É tudo o que tenho, recebe o meu nada<br>Refaz a morada, habita em mim<br>Me pega em Teu colo<br>Me acalma em Teu peito<br>Sou Teu, sou eleito<br>E a minha essência é exalar Teu cheiro"
+      ]
+    },
+    {
+      "id": "gloria-eliana-ribeiro",
+      "name": "Glória a Deus Nas Alturas",
+      "artist": "Eliana Ribeiro",
+      "youtube_url": "https://www.youtube.com/embed/LKczrJp8cXg",
+      "cifra_url": "https://www.cifraclub.com.br/eliana-ribeiro/gloria-deus-nas-alturas",
+      "letra_url": "https://www.letras.mus.br/eliana-ribeiro/783808",
+      "content": [
+        "Glória a Deus nas alturas<br>E paz na terra aos homens por Ele amados<br>Senhor Deus, Rei dos céus, Deus Pai todo-poderoso",
+        "Nós vos louvamos<br>Nós vos bendizemos<br>Nós vos adoramos<br>Nós vos glorificamos<br>Nós vos damos graças por vossa imensa glória",
+        "Senhor Jesus Cristo, Filho Unigênito<br>Senhor Deus, Cordeiro de Deus, Filho de Deus Pai<br>Vós que tirais o pecado do mundo, tende piedade de nós<br>Vós que tirais o pecado do mundo, acolhei a nossa súplica<br>Vós que estais à direita do Pai",
+        "Tende piedade de nós<br>Só vós sois Santo<br>Só vós o Senhor<br>Só vós o Altíssimo, Jesus Cristo",
+        "Com o Espírito Santo<br>Na glória de Deus Pai, amém!<br>Na glória de Deus Pai, amém!<br>Na glória de Deus Pai, amém!<br>Na glória de Deus Pai, amém!"
+      ]
+    },
+    {
+      "id": "eu-seguirei-frei-gilson",
+      "name": "Eu Seguirei",
+      "artist": "Frei Gilson",
+      "youtube_url": "https://www.youtube.com/embed/o2QQWcLE7ac",
+      "cifra_url": "https://www.cifraclub.com.br/frei-gilson/eu-seguirei",
+      "letra_url": "https://www.letras.mus.br/frei-gilson/eu-seguirei",
+      "content": [
+        "Eu vou<br>Deixar-me guiar<br>E me abandonar no Teu querer<br>Preciso fazer a Tua vontade em minha vida",
+        "Para onde eu irei?<br>Em quem me apoiarei?<br>Para onde eu irei?<br>Em quem me apoiarei?",
+        "Eu seguirei<br>Eu irei aonde fores, Senhor<br>Eu seguirei<br>Eu irei aonde fores, Senhor",
+        "Tua graça me basta<br>Teu amor me sustenta<br>Tua graça me basta<br>Teu amor me sustenta",
+        "Eu Te seguirei<br>Eu Te seguirei<br>Eu Te seguirei",
+        "Eu seguirei<br>Eu irei aonde fores, Senhor<br>Eu seguirei<br>Eu irei aonde fores, Senhor",
+        "Tua graça me basta<br>Teu amor me sustenta<br>Tua graça me basta<br>Teu amor me sustenta"
+      ]
+    },
+    {
+      "id": "pai-nosso-pe-marcelo-rossi",
+      "name": "Pai Nosso",
+      "artist": "Pe Marcelo Rossi",
+      "youtube_url": "https://www.youtube.com/embed/uhQcg9hpgwU",
+      "cifra_url": "https://www.cifraclub.com.br/padre-marcelo-rossi/pai-nosso",
+      "letra_url": "https://www.letras.mus.br/padre-marcelo-rossi/88612",
+      "content": [
+        "Pai nosso que estais no céu<br>Santificado seja o Teu nome<br>E venha a nós o Teu reino<br>E seja feita a Tua vontade",
+        "Pai, meu Pai do céu, meu Pai do céu<br>Eu quase me esqueci, me esqueci<br>Que o Teu amor vela por mim, vela por mim<br>Que seja feito assim",
+        "Meu Pai, meu Pai do céu, meu Pai do céu<br>Eu quase me esqueci, me esqueci<br>Que o Teu amor vela por mim, vela por mim<br>Que seja feito assim",
+        "O alimento desse dia<br>Dai-nos agora e sempre<br>E perdoai nossas ofensas<br>De um modo maior com que perdoamos",
+        "Pai, meu Pai do céu, meu Pai do céu<br>Eu quase me esqueci, me esqueci<br>Que o Teu amor vela por mim, vela por mim<br>Que seja feito assim",
+        "Meu Pai, meu Pai do céu, meu Pai do céu<br>Eu quase me esqueci, me esqueci<br>Que o Teu amor vela por mim, vela por mim<br>Que seja feito assim",
+        "E não nos deixeis cair em tentação<br>Mas livrai-nos de todo o mal, amém"
+      ]
+    },
+    {
+      "id": "vos-sois-o-caminh-a-verdade-e-a-vida",
+      "name": "Vós Sois o Caminho, a Verdade e a Vida",
+      "artist": "Músicas Católicas",
+      "youtube_url": "https://www.youtube.com/embed/eIxqHmdHTeo",
+      "cifra_url": "https://www.cifraclub.com.br/catolicas/vos-sois-caminho",
+      "letra_url": "https://www.letras.mus.br/catolicas/1933500",
+      "content": [
+        "Vós sois o Caminho, a Verdade e a Vida<br>O Pão da Alegria descido do céu<br>Nós somos caminheiros que marcham para os céus<br>Jesus é o caminho que nos conduz a Deus",
+        "Vós sois o Caminho, a Verdade e a Vida<br>O Pão da Alegria descido do céu<br>Da noite da mentira, das trevas para a luz<br>Busquemos a verdade, verdade é só Jesus",
+        "Vós sois o Caminho, a Verdade e a Vida<br>O Pão da Alegria descido do céu<br>Pecar é não ter vida, pecar é não ter luz<br>Tem vida só quem segue os passos de Jesus",
+        "Vós sois o Caminho, a Verdade e a Vida<br>O Pão da Alegria descido do céu<br>Jesus, verdade e vida, caminho que conduz<br>As almas peregrinas, que marcham para a luz"
+      ]
+    },
+    {
+      "id": "reunidos-aqui",
+      "name": "Reunidos Aqui",
+      "artist": "Pe Marcelo Rossi",
+      "youtube_url": "https://www.youtube.com/embed/9q61K3lUR34",
+      "cifra_url": "https://www.cifraclub.com.br/padre-marcelo-rossi/reunidos-aqui",
+      "letra_url": "https://www.letras.mus.br/padre-marcelo-rossi",
+      "content": [
+        "Reunidos aqui<br>Só pra louvar ao Senhor<br>Novamente aqui<br>Em união",
+        "Algo bom vai acontecer<br>Algo bom Deus tem para nós<br>Reunidos aqui<br>Só pra louvar o Senhor"
+      ]
+    },
+    {
+      "id": "vem-eu-mostratei",
+      "name": "Vem eu mostrarei",
+      "artist": "Músicas Católicas",
+      "youtube_url": "https://www.youtube.com/embed/5PfjKetvye8",
+      "cifra_url": "https://www.cifraclub.com.br/catolicas/vem-eu-mostrarei",
+      "letra_url": "https://www.letras.mus.br/catolicas/1288063",
+      "content": [
+        "Vem, e eu mostrarei que o meu caminho te leva ao Pai<br>Guiarei os passos teus e junto a ti hei de seguir<br>Sim, eu irei e saberei como chegar ao fim<br>De onde vim, aonde vou, por onde irás, irei também",
+        "Vem, eu te direi o que ainda estás a procurar<br>A verdade é como o sol e invadirá teu coração<br>Sim, eu irei e aprenderei minha razão de ser<br>Eu creio em ti que crês em mim e a tua luz verei a luz",
+        "Vem, e eu te farei da minha vida participar<br>Viverás em mim aqui, viver em mim é o bem maior<br>Sim, eu irei e viverei a vida inteira assim<br>Eternidade é na verdade, o amor vivendo sempre em nós",
+        "Vem, que a terra espera quem possa e queira realizar<br>Com amor, a construção de um mundo novo muito melhor!<br>Sim, eu irei e levarei teu nome aos meus irmãos<br>Iremos nós e o teu amor vai construir enfim a paz!"
+      ]
+    },
+    {
+      "id": "eu-confesso-paulus",
+      "name": "Eu Confesso",
+      "artist": "Paulus",
+      "youtube_url": "https://www.youtube.com/embed/hJ78ZoTxCr0",
+      "cifra_url": "https://www.cifraclub.com.br/catolicas/eu-confesso",
+      "letra_url": "https://www.letras.mus.br/paulus/eu-confesso/",
+      "content": [
+        "Eu confesso a Deus e a vós irmãos<br>Tantas vezes pequei, não fui fiel<br>Pensamentos e palavras, atitudes e omissões<br>Por minha culpa, tão grande culpa",
+        "Senhor piedade, Cristo piedade, tem piedade, ó Senhor<br>Senhor piedade, Cristo piedade, tem piedade, ó Senhor",
+        "Peço à Virgem Maria, nossa Mãe<br>E a vós meus irmãos, rogueis por mim<br>A Deus Pai que nos perdoa e nos sustenta em Sua mão<br>Por Seu amor, tão grande amor",
+        "Senhor piedade, Cristo piedade, tem piedade, ó Senhor<br>Senhor piedade, Cristo piedade, tem piedade, ó Senhor"
       ]
     },
     {
@@ -494,6 +653,7 @@
       "artist": "Padre Zeca",
       "youtube_url": "https://www.youtube.com/embed/5YRbz4NXGtA&t",
       "cifra_url": "https://www.cifraclub.com.br/padre-zeca/senhor-que-vieste-salvar",
+      "letra_url": "https://www.letras.mus.br/padre-zeca/542941",
       "content": [
         "Senhor que viestes salvar<br>Os corações arrependidos<br>Piedade, Piedade<br>Piedade de nós<br>Piedade, Piedade<br>Piedade de nós",
         "Ó, Cristo que viestes chamar<br>Os pecadores humilhados<br>Piedade, Piedade<br>Piedade de nós<br>Piedade, Piedade<br>Piedade de nós",
