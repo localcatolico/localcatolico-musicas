@@ -13,6 +13,77 @@
       ]
     },
     {
+      "id": "o-que-agrada-a-deus",
+      "name": "O que Agrada a Deus",
+      "artist": "Ziza Fernandes",
+      "youtube_url": "https://www.youtube.com/embed/Fwvs7E1ZOno",
+      "cifra_url": "https://www.cifraclub.com.br/ziza-fernandes/o-que-agrada-deus-74157",
+      "letra_url": "https://www.letras.mus.br/ziza-fernandes/245022/",
+      "content": [
+        "O que agrada a Deus<br>Em minha pequena alma<br>É que eu ame minha pequenez<br>E minha pobreza",
+        "É a esperança cega<br>Que tenho em sua misericórdia"
+      ]
+    },
+    {
+      "id": "sou-um-milagre",
+      "name": "Sou um Milagre",
+      "artist": "Eliana Ribeiro",
+      "youtube_url": "https://www.youtube.com/embed/rw9DwvbPDcU",
+      "cifra_url": "https://www.cifraclub.com.br/padre-marcelo-rossi/sou-um-milagre/#tabs=false&instrument=keyboard",
+      "letra_url": "https://www.letras.mus.br/eliana-ribeiro/sou-um-milagre/",
+      "content": [
+        "Nunca houve noite, que pudesse impedir<br>O nascer do Sol e a esperança<br>E não há problema que possa impedir<br>As mãos de Jesus pra me ajudar",
+        "Haverá um milagre dentro de mim<br>Vem descendo o rio pra me dar a vida<br>Este rio que emana lá da cruz<br>Do lado de Jesus",
+        "Haverá um milagre dentro de mim<br>Vem descendo o rio pra me dar a vida<br>Este rio que emana lá da cruz<br>Do lado de Jesus",
+        "Aquilo que parecia impossível<br>Aquilo que parecia não ter saída<br>Aquilo que parecia ser minha morte<br>Mas Jesus mudou minha sorte<br>Sou um milagre e estou aqui"
+      ]
+    },
+    {
+      "id": "ofereco-minha-vida",
+      "name": "Ofereço Minha Vida",
+      "artist": "Igreja Bíblica da Paz",
+      "youtube_url": "https://www.youtube.com/embed/b6rEkaz5AEs",
+      "cifra_url": "https://www.cifraclub.com.br/igreja-biblica-da-paz/ofereco-minha-vida-ti",
+      "letra_url": "https://www.letras.mus.br/igreja-biblica-da-paz/759743",
+      "content": [
+        "Tudo o que sou<br>Tudo o que tenho<br>Estão diante de Ti, Senhor!<br>Minhas tristezas e alegrias<br>A Ti entrego agora, Senhor!",
+        "Ofereço minha vida a Ti<br>Usa o meu viver para Tua glória!<br>Os meus dias são Teus, Senhor!<br>Que seja o meu louvor<br>Sacrifício agradável!<br>Minha vida eu Te dou!",
+        "O meu passado, o meu futuro<br>Sonhos que um dia se realizarão<br>Minha esperança e os meus planos<br>Todo o meu ser pertence ao Senhor!",
+        "Ofereço minha vida a Ti<br>Usa o meu viver para Tua glória!<br>Os meus dias são Teus, Senhor!<br>Que seja o meu louvor<br>Sacrifício agradável!<br>Minha vida eu Te dou!"
+      ]
+    },
+    {
+      "id": "vem-vem-louvar",
+      "name": "Vem, vem louvar",
+      "artist": "Padre Joãozinho",
+      "youtube_url": "https://www.youtube.com/embed/h_Xwz65mf_k",
+      "cifra_url": "https://www.cifraclub.com.br/catolicas/vem-vem-louvar",
+      "letra_url": "https://www.letras.mus.br/joaozinho/1252588/",
+      "content": [
+        "Vem, Vem louvar, encher esse lugar de glória<br>encher esse lugar de glória, com a glória do Senhor (2x)",
+        "Quando Deus envia o seu Espírito nos conduz à fé<br>E nos faz cantar o seu louvor, seu amor em cada coração<br>Nos garante a paz e nos faz cantar o seu louvor.",
+        "Vem, Vem louvar, encher esse lugar de glória<br>encher esse lugar de glória, com a glória do Senhor (2x)",
+        "É tão bom estar neste lugar de alegria e paz<br>Que nos faz cantar o seu louvor. Eu também sou templo do Senhor<br>E o meu coração vai cantar pra sempre o seu louvor."
+      ]
+    },
+    {
+      "id": "glória-a-deus-pai",
+      "name": "Glória a Deus Pai",
+      "artist": "Glória de Cristo Salvador",
+      "youtube_url": "https://www.youtube.com/embed/ydA-fj2qpMc",
+      "cifra_url": "https://www.cifraclub.com.br/gloria-de-cristo-salvador/oh-oh-gloria-a-deus-pai",
+      "letra_url": "https://www.letras.mus.br/gloria-de-cristo-salvador/oh-oh-gloria-a-deus-pai/",
+      "content": [
+        "Ô, ô glória, ô glória<br>A Deus Pai, a Jesus Cristo e ao Espírito de amor",
+        "Deus e pai nós vos louvamos, adoramos, bendizemos<br>Damos glória ao vosso nome, vossos dons agradecemos",
+        "Senhor nosso, Jesus Cristo, unigênito do Pai<br>Vós de Deus, Cordeiro Santo, nossas culpas perdoai",
+        "Ô, ô glória, ô glória<br>A Deus Pai, a Jesus Cristo e ao Espírito de amor",
+        "Vós que estais junto do Pai, como nosso intercessor<br>Acolhei nossos pedidos, atendei nosso clamor",
+        "Vós somente sois o Santo, o Altíssimo, o Senhor<br>Com o Espírito Divino, de Deus Pai ao esplendor",
+        "Ô, ô glória, ô glória<br>A Deus Pai, a Jesus Cristo e ao Espírito de amor"
+      ]
+    },
+    {
       "id": "sobrevivi",
       "name": "Sobrevivi",
       "artist": "Shirley Carvalhaes",
