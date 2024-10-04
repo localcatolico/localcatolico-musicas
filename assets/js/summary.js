@@ -1,5 +1,5 @@
 var summary;
-fetch("https://raw.githubusercontent.com/localcatolico/localcatolico-musicas/main/data/summary.json")
+fetch("/data/summary.json")
   .then(res => res.json())
   .then(data => {
     summary = data.summary;
@@ -34,10 +34,21 @@ function doSummary(summary, musics) {
     for (var m of s.musics) {
       music = findMusic(m, musics)
       html += `<h1>` + music.name + `</h1>`
+      html += `<h4>` + music.artist + `</h4><br>`
 
-      if (music.cifra_url != "" && music.cifra_url != undefined) {
-        html += `<a class="btn btn-sm btn-primary" href="` + music.cifra_url + `" target="_blank">Cifra</a><br><br>`
+      if (music.youtube_url != "") {
+        html += `<a class="btn btn-sm btn-danger" href="` + music.youtube_url + `" target="_blank">YouTube</a>&nbsp;`
       }
+  
+      if (music.cifra_url != "") {
+        html += `<a class="btn btn-sm btn-warning" href="` + music.cifra_url + `" target="_blank">Cifra</a>&nbsp;`
+      }
+  
+      if (music.letra_url != "") {
+        html += `<a class="btn btn-sm btn-success" href="` + music.letra_url + `" target="_blank">Letra</a>&nbsp;`
+      }
+
+      html += `<br><br>`
 
       for (var c of music.content) {
         html += c + `<br><br>`

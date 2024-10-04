@@ -1,5 +1,5 @@
 var musics;
-fetch("https://raw.githubusercontent.com/localcatolico/localcatolico-musicas/main/data/musics.json")
+fetch("/data/musics.json")
   .then(res => res.json())
   .then(data => {
     musics = data.musics;
@@ -24,9 +24,19 @@ function doMusics(musics) {
         <div id="flush-collapse` + music.id + `" class="accordion-collapse collapse" aria-labelledby="` + music.id + `" data-bs-parent="#churchs">
           <div class="accordion-body">`;
 
-    if (music.cifra_url != "") {
-      html += `<a class="btn btn-sm btn-primary" href="` + music.cifra_url + `" target="_blank">Cifra</a><br><br>`
+    if (music.youtube_url != "") {
+      html += `<a class="btn btn-sm btn-danger" href="` + music.youtube_url + `" target="_blank">YouTube</a>&nbsp;`
     }
+
+    if (music.cifra_url != "") {
+      html += `<a class="btn btn-sm btn-warning" href="` + music.cifra_url + `" target="_blank">Cifra</a>&nbsp;`
+    }
+
+    if (music.letra_url != "") {
+      html += `<a class="btn btn-sm btn-success" href="` + music.letra_url + `" target="_blank">Letra</a>&nbsp;`
+    }
+
+    html += `<br><br>`
 
     for (var c of music.content) {
       html += c + `<br><br>`

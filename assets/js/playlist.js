@@ -7,7 +7,7 @@ async function fetchDataSheet() {
     const parsedData = parseCSV(data);
 
     const queryParams = new URLSearchParams(window.location.search);
-    const id = queryParams.get("id");
+    const id = queryParams.get("q");
 
     let html = "";
     let found = false;
@@ -21,7 +21,7 @@ async function fetchDataSheet() {
         found = true;
         html += `<div class="accordion-item">
                    <h2 class="accordion-header" id="${row[0]}">
-                     <a class="accordion-button" type="button" href="/repertorio.html?id=${row[0]}">
+                     <a class="accordion-button" type="button" href="/playlist.html?q=${row[0]}">
                        ${row[0]}
                      </a>
                    </h2>

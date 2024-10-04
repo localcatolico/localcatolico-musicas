@@ -22,7 +22,7 @@ async function fetchData() {
         html += 
             `<div class="accordion-item">
               <h2 class="accordion-header" id="` + value + `">
-                <a class="accordion-button" type="button" href="/playlist.html?id=` + value + `">
+                <a class="accordion-button" type="button" href="/playlist.html?q=` + value + `">
                   ` + value + `
                 </a>
               </h2>

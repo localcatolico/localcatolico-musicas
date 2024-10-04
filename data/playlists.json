@@ -1,0 +1,328 @@
+{
+  "playlists": [
+    {
+      "id": "example",
+      "name": "Exemplo Missa X",
+      "enabled": "false",
+      "summary": [
+        {
+          "name": "Entrada",
+          "musics": []
+        },
+        {
+          "name": "Ato Penitencial",
+          "musics": []
+        },
+        {
+          "name": "Glória",
+          "musics": []
+        },
+        {
+          "name": "Aclamação ao Evangélio",
+          "musics": []
+        },
+        {
+          "name": "Ofertório",
+          "musics": []
+        },
+        {
+          "name": "Santo",
+          "musics": []
+        },
+        {
+          "name": "Comunhão",
+          "musics": []
+        },
+        {
+          "name": "Final",
+          "musics": []
+        }
+      ]
+    },
+    {
+      "id": "pentecostes",
+      "name": "Pentecostes",
+      "enabled": "true",
+      "summary": [
+        {
+          "name": "Entrada",
+          "musics": [
+            "deixa-a-luz-do-ceu-entrar",
+            "o-ceu-se-abre-walmir-alencar",
+            "templo-vivo"
+          ]
+        },
+        {
+          "name": "Ato Penitencial",
+          "musics": ["muito-perdoais-shalom"]
+        },
+        {
+          "name": "Glória",
+          "musics": []
+        },
+        {
+          "name": "Aclamação ao Evangélio",
+          "musics": ["a-nos-descei-divina-luz"]
+        },
+        {
+          "name": "Ofertório",
+          "musics": []
+        },
+        {
+          "name": "Santo",
+          "musics": ["santo-capella"]
+        },
+        {
+          "name": "Comunhão",
+          "musics": ["divino-hospede"]
+        },
+        {
+          "name": "Final",
+          "musics": ["eu-navegarei"]
+        }
+      ]
+    },
+    {
+      "id": "festa-divino",
+      "name": "Festa do Divino",
+      "enabled": "true",
+      "summary": [
+        {
+          "name": "Entrada",
+          "musics": [
+            "bandeira-do-divino"
+          ]
+        },
+        {
+          "name": "Ato Penitencial",
+          "musics": [
+            "conheco-um-coracao-marcelo-rossi"
+          ]
+        },
+        {
+          "name": "Glória",
+          "musics": ["amados-por-deus-shalom"]
+        },
+        {
+          "name": "Aclamação ao Evangélio",
+          "musics": [
+            "deixa-a-luz-do-ceu-entrar"
+          ]
+        },
+        {
+          "name": "Ofertório",
+          "musics": []
+        },
+        {
+          "name": "Santo",
+          "musics": []
+        },
+        {
+          "name": "Comunhão",
+          "musics": [
+            "divino-hospede"
+          ]
+        },
+        {
+          "name": "Final",
+          "musics": [
+            "deixa-a-bandeira-passar"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nossa-senhora-do-carmo",
+      "name": "Missa Nossa Senhora do Carmo",
+      "enabled": "true",
+      "summary": [
+        {
+          "name": "Entrada",
+          "musics": ["a-mae-do-carmelo"]
+        },
+        {
+          "name": "Ato Penitencial",
+          "musics": ["muito-perdoais-shalom"]
+        },
+        {
+          "name": "Glória",
+          "musics": ["amados-por-deus-shalom"]
+        },
+        {
+          "name": "Aclamação ao Evangélio",
+          "musics": ["aleluia-aleluia-aleluia"]
+        },
+        {
+          "name": "Ofertório",
+          "musics": ["daqui-do-meu-lugar-pe-zezinho"]
+        },
+        {
+          "name": "Santo",
+          "musics": ["santo-capella"]
+        },
+        {
+          "name": "Comunhão",
+          "musics": ["presenca-real-salette-ferreira"]
+        },
+        {
+          "name": "Final",
+          "musics": ["porta-do-ceu-eliana-ribeiro"]
+        }
+      ]
+    },
+    {
+      "id": "rafael-mateus",
+      "name": "Rafael Mateus",
+      "enabled": "true",
+      "summary": [
+        {
+          "name": "Entrada",
+          "musics": []
+        },
+        {
+          "name": "Ato Penitencial",
+          "musics": []
+        },
+        {
+          "name": "Glória",
+          "musics": []
+        },
+        {
+          "name": "Aclamação ao Evangélio",
+          "musics": []
+        },
+        {
+          "name": "Ofertório",
+          "musics": []
+        },
+        {
+          "name": "Santo",
+          "musics": []
+        },
+        {
+          "name": "Comunhão",
+          "musics": ["presenca-linda-netinho"]
+        },
+        {
+          "name": "Final",
+          "musics": []
+        }
+      ]
+    },
+    {
+      "id": "assuncao-nossa-senhora",
+      "name": "Missa Assunção Nossa Senhora",
+      "enabled": "true",
+      "summary": [
+        {
+          "name": "Entrada",
+          "musics": ["maria-pura-santa"]
+        },
+        {
+          "name": "Ato Penitencial",
+          "musics": ["senhor-que-vistes-salvar"]
+        },
+        {
+          "name": "Glória",
+          "musics": ["gloria-amados-por-deus"]
+        },
+        {
+          "name": "Aclamação ao Evangélio",
+          "musics": ["aleluia-aleluia-aleluia"]
+        },
+        {
+          "name": "Ofertório",
+          "musics": ["estar-em-tuas-maos"]
+        },
+        {
+          "name": "Santo",
+          "musics": ["santo-senhor-deus-do-universo"]
+        },
+        {
+          "name": "Comunhão",
+          "musics": ["perfeito-quem-te-criou"]
+        },
+        {
+          "name": "Final",
+          "musics": ["maria-porta-do-ceu"]
+        }
+      ]
+    },
+    {
+      "id": "retiro",
+      "name": "Retiro",
+      "enabled": "true",
+      "summary": [
+        {
+          "name": "Acolhida",
+          "musics": [
+            "reunimo-nos-aqui-kemuel",
+            "a-casa-e-sua"
+          ]
+        },
+        {
+          "name": "Espírito Santo",
+          "musics": [
+            "o-ceu-se-abre-walmir-alencar",
+            "vem-espirito-renascer-praise",
+            "queima-de-novo",
+            "sou-casa",
+            "em-espirito-em-verdade"
+          ]
+        },
+        {
+          "name": "Meditação",
+          "musics": [
+            "yeshua",
+            "lindo-es",
+            "ao-unico-aline-barros",
+            "quao-formoso-es"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "missa-santa-terezinha",
+      "name": "Missa Santa Terezinha",
+      "enabled": "true",
+      "summary": [
+        {
+          "name": "Entrada",
+          "musics": ["chuva-de-graca-eliana-ribeiro"]
+        },
+        {
+          "name": "Ato Penitencial",
+          "musics": ["senhor-que-vistes-salvar"]
+        },
+        {
+          "name": "Glória",
+          "musics": ["gloria-gloria-anjos-do-ceu"]
+        },
+        {
+          "name": "Aclamação ao Evangélio",
+          "musics": ["aleluia-aleluia-aleluia"]
+        },
+        {
+          "name": "Ofertório",
+          "musics": ["es-o-sentido"]
+        },
+        {
+          "name": "Santo",
+          "musics": ["santo-capella"]
+        },
+        {
+          "name": "Comunhão",
+          "musics": ["vivo-de-misericordia"]
+        },
+        {
+          "name": "Ação de Graças",
+          "musics": ["meu-ceu"]
+        },
+        {
+          "name": "Final",
+          "musics": ["eterno-ceu-shalom"]
+        }
+      ]
+    }
+  ]
+}
