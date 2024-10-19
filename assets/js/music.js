@@ -35,6 +35,10 @@ function doMusics(musics) {
       html += `<a class="btn btn-sm btn-success" href="` + music.letra_url + `" target="_blank">Letra</a>&nbsp;`
     }
 
+    html += `<button class="btn btn-sm btn-primary" data-bs-toggle="modal" data-bs-target="#presentationModal">Baixar slide</button>`
+    const button = document.getElementById('generateSlidesButton');
+    button.setAttribute('onclick', `generateSlidesMusic("` + music.id + `")`);
+
     html += `<br><br>`
 
     for (var c of music.content) {
@@ -52,4 +56,42 @@ function doMusics(musics) {
   }
 
   document.getElementById("musics").innerHTML = html;
+}
+
+function generateSlidesMusic(musicId) {
+  let toUpperCase = getToUpperCase();
+  let toDarkTheme = getToDarkTheme();
+  let pptx = new PptxGenJS();
+  let music = findMusicById(musicId);
+  let filename = music.name;
+  console.log("getToUpperCase: ", toUpperCase);
+  console.log("toDarkTheme: ", toDarkTheme);
+  slideLocalCatolico(pptx, filename, toDarkTheme);
+  addMusicContentSlide(pptx, music, toDarkTheme, toUpperCase);
+  pptx.writeFile({ fileName: filename });
+
+  // close modal
+  const modalElement = document.getElementById('presentationModal');
+  const modalInstance = bootstrap.Modal.getInstance(modalElement);
+  if (modalInstance) {
+    modalInstance.hide();
+  }
+}
+
+function getToUpperCase() {
+  const fontSelect = document.getElementById('fontOption');
+  const selectedValue = fontSelect.value;
+  if (selectedValue === 'original') {
+    return false;
+  }
+  return true;
+}
+
+function getToDarkTheme() {
+  const themeSelect = document.getElementById('themeOption');
+  const selectedValue = themeSelect.value;
+  if (selectedValue === 'light') {
+    return false;
+  }
+  return true;
 }
