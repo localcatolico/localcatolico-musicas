@@ -7,11 +7,13 @@ fetch("/data/musics.json")
   });
 
 function generateSlidesMissa() {
+  let toUpperCase = getToUpperCase();
+  let toDarkTheme = getToDarkTheme();
   let pptx = new PptxGenJS();
   let filename = generateFileName();
 
-  slideLocalCatolico(pptx, filename, darkTheme);
-  slideEmpty(pptx, darkTheme);
+  slideLocalCatolico(pptx, filename, toDarkTheme);
+  slideEmpty(pptx, toDarkTheme);
 
   const musicFields = [
     "musicEntrance",
@@ -32,9 +34,9 @@ function generateSlidesMissa() {
     if (selectedMusicId) {
       const music = findMusicById(selectedMusicId);
       if (music) {
-        addMusicTitleSlide(pptx, music, darkTheme);
-        addMusicContentSlide(pptx, music, darkTheme, toUpperCase);
-        slideEmpty(pptx, darkTheme);
+        addMusicTitleSlide(pptx, music, toDarkTheme);
+        addMusicContentSlide(pptx, music, toDarkTheme, toUpperCase);
+        slideEmpty(pptx, toDarkTheme);
       }
     }
   });
@@ -50,4 +52,22 @@ function viewMusic(selectId) {
   } else {
     alert("Por favor, selecione uma música primeiro.");
   }
+}
+
+function getToUpperCase() {
+  const fontSelect = document.getElementById('fontOption');
+  const selectedValue = fontSelect.value;
+  if (selectedValue === 'original') {
+    return false;
+  }
+  return true;
+}
+
+function getToDarkTheme() {
+  const themeSelect = document.getElementById('themeOption');
+  const selectedValue = themeSelect.value;
+  if (selectedValue === 'light') {
+    return false;
+  }
+  return true;
 }

@@ -64,8 +64,6 @@ function generateSlidesMusic(musicId) {
   let pptx = new PptxGenJS();
   let music = findMusicById(musicId);
   let filename = music.name;
-  console.log("getToUpperCase: ", toUpperCase);
-  console.log("toDarkTheme: ", toDarkTheme);
   slideLocalCatolico(pptx, filename, toDarkTheme);
   addMusicContentSlide(pptx, music, toDarkTheme, toUpperCase);
   pptx.writeFile({ fileName: filename });

@@ -49,8 +49,18 @@ function slideEmpty(pptx, darkTheme) {
 function addMusicTitleSlide(pptx, music, darkTheme) {
   let slide = pptx.addSlide();
   darkSlideTheme(slide, darkTheme)
-  slide.addText(`${music.name}`, { x: 1, y: 1, fontSize: 24, color: '363636' });
-  slide.addText(`${music.artist}`, { x: 1, y: 2, fontSize: 18, color: '636363' });
+  slide.addText(`${music.name}`, {
+    x: 1,
+    y: 1,
+    fontSize: 24,
+    color: darkTheme ? 'FFFFFF' : '363636',
+  });
+  slide.addText(`${music.artist}`, {
+    x: 1,
+    y: 2,
+    fontSize: 18,
+    color: darkTheme ? 'FFFFFF' : '363636',
+  });
 }
 
 function addMusicContentSlide(pptx, music, darkTheme, toUpperCase) {
