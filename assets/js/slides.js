@@ -6,6 +6,35 @@ fetch("/data/musics.json")
     populateMusicOptions(musics);
   });
 
+function populateMusicOptions(musics) {
+  const musicFields = [
+    "musicEntrance",
+    "musicForgiveness",
+    "musicGlory",
+    "musicAcclamation",
+    "musicOffertory",
+    "musicHoly",
+    "musicLamb",
+    "musicCommunion",
+    "musicPostCommunion",
+    "musicFinal"
+  ];
+
+  musicFields.forEach(fieldId => {
+    let selectElement = document.getElementById(fieldId);
+    musics.forEach(music => {
+      let option = document.createElement("option");
+      option.value = music.id;
+      var label = music.name;
+      if (music.artist != "") {
+        label = music.name + " - " + music.artist;
+      }
+      option.text = label;
+      selectElement.appendChild(option);
+    });
+  });
+}
+
 function generateSlidesMissa() {
   let toUpperCase = getToUpperCase();
   let toDarkTheme = getToDarkTheme();
