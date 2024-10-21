@@ -59,12 +59,14 @@
       "id": "ofertorio",
       "name": "Ofertório",
       "musics": [
+        "serei-teu-shalom",
         "a-ti-meu-deus",
         "sobe-a-jerusalem",
         "ser-conhecido-de-deus",
         "estar-em-tuas-maos",
         "te-dou-meu-coracao",
         "meu-respirar-nivea-soares",
+        "muitos-graos-de-trigo",
         "nada-nos-separara-davidson-silva"
       ]
     },
@@ -81,6 +83,7 @@
       "name": "Comunhão",
       "musics": [
         "presenca-real-salette-ferreira",
+        "divino-esposo-suley-facanha",
         "estas-entre-nos",
         "terra-seca-fraternidade-sao-joao-paulo-ii",
         "presenca-linda-netinho",
@@ -91,13 +94,15 @@
         "divino-hospede",
         "daqui-do-meu-lugar-pe-zezinho",
         "oracao-sao-francisco-fagner",
-        "a-barca"
+        "a-barca",
+        "vejam-eu-andei-pelas-vilas"
       ]
     },
     {
       "id": "final",
       "name": "Final",
       "musics": [
+        "todo-teu-shalom",
         "meu-ceu",
         "que-santidade-de-vida",
         "maria-porta-do-ceu",
@@ -108,7 +113,10 @@
         "eterno-ceu-shalom",
         "civilizacao-do-amor",
         "templo-vivo",
-        "busque-o-alto"
+        "busque-o-alto",
+        "deixa-deus-sonhar-em-ti-frei-gilson",
+        "viva-mae-de-deus-nossa",
+        "alma-missionaria-reginaldo-manzotti"
       ]
     }
   ]
