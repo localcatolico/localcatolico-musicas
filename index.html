@@ -37,7 +37,13 @@
             <div class="col-md-8 offset-md-2">
               <div class="input-group">
                 <input type="text" id="searchInput" class="form-control" placeholder="Pesquise música, artista ou letra" aria-label="Search" onkeyup="searchMusic()">
+                <button id="voiceButton" class="btn btn-primary">🎤</button>
               </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-8 offset-md-2">
+              <p id="statusLabel" class="text-danger" style="display: none; font-weight: bold;">Capturando voz...</p>
             </div>
           </div>
         </div>
@@ -56,5 +62,6 @@
     </main>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
     <script src="assets/js/search.js"></script>
+    <script src="assets/js/speech.js"></script>
   </body>
 </html>
