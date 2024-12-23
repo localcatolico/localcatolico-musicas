@@ -48,9 +48,8 @@ function searchMusic() {
               <p class="card-text">${music.artist}</p>
               ${contentMatch ? `<p class="card-text">${contentMatch}</p>` : ''}
               <a href="/music.html?q=${music.id}" class="btn btn-primary" target="_blank">Abrir música</a>
-              <a href="${music.youtube_url}" class="btn btn-danger" target="_blank">YouTube</a>
-              <a href="${music.cifra_url}" class="btn btn-warning" target="_blank">Cifra</a>
-              <a href="${music.letra_url}" class="btn btn-success" target="_blank">Letra</a>
+              <a href="${music.youtube_url}" class="btn btn-danger float-end ms-2" target="_blank"><i class="fab fa-youtube"></i></a>
+              <a href="${music.cifra_url}" class="btn btn-warning float-end text-white ms-2" target="_blank"><i class="fas fa-guitar"></i></a>
             </div>
           </div>
         </div>
