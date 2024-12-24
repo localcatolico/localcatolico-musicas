@@ -24,18 +24,18 @@ function doMusics(musics) {
           <div class="accordion-body">`;
 
     if (music.youtube_url != "") {
-      html += `<a class="btn btn-sm btn-danger" href="` + music.youtube_url + `" target="_blank">YouTube</a>&nbsp;`
+      html += `<a class="btn btn-sm btn-danger" href="` + music.youtube_url + `" target="_blank"><i class="fab fa-youtube"></i> YouTube</a>&nbsp;`
     }
 
     if (music.cifra_url != "") {
-      html += `<a class="btn btn-sm btn-warning" href="` + music.cifra_url + `" target="_blank">Cifra</a>&nbsp;`
+      html += `<a class="btn btn-sm btn-warning text-white" href="` + music.cifra_url + `" target="_blank"><i class="fas fa-guitar"></i> Cifra</a>&nbsp;`
     }
 
     if (music.letra_url != "") {
-      html += `<a class="btn btn-sm btn-success" href="` + music.letra_url + `" target="_blank">Letra</a>&nbsp;`
+      html += `<a class="btn btn-sm btn-success" href="` + music.letra_url + `" target="_blank"><i class="fas fa-microphone-alt"></i> Letra</a>&nbsp;`
     }
 
-    html += `<button class="btn btn-sm btn-primary" data-bs-toggle="modal" data-bs-target="#presentationModal">Baixar slide</button>`
+    html += `<button class="btn btn-sm btn-primary" data-bs-toggle="modal" data-bs-target="#presentationModal"><i class="fas fa-file-powerpoint"></i> Baixar slide</button>`
     const button = document.getElementById('generateSlidesButton');
     button.setAttribute('onclick', `generateSlidesMusic("` + music.id + `")`);
 
