@@ -1,4 +1,4 @@
-function copyPlaylistToClipboard(href, playlist) {
+function copyLinkToClipboard(href, playlist) {
   if (href.split("?q=")[1] != ""){
     href = href.split("?q=")[0] + "?q=" + href.split("?q=")[1];
   }
