@@ -15,7 +15,7 @@ http://localhost:8000
 # Criando a estrutura json da música com scrape do letras.com
 
 ```
-docker run --rm rafaelbmateus/scrape-letras https://www.letras.com/natal/509388
+docker run --rm rafaelbmateus/scrape-letras https://www.letras.com/amanda-wanessa/perto-quero-estar/
 ```
 
 Incluir o objeto de retorno do arquivo [data/musics.json](/data/musics.json)
