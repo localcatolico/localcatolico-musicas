@@ -26,6 +26,7 @@ function searchMusic() {
   filteredMusics = filteredMusics.sort((a, b) => a.name.localeCompare(b.name));
 
   if (filteredMusics.length > 0) {
+    resultsContainer.innerHTML = `<p class="text-secondary text-end">` + filteredMusics.length + ` músicas</p>`;
     filteredMusics.forEach(music => {
       let contentMatch = "";
       if (searchQuery && music.content.join(" ").toLowerCase().includes(searchQuery)) {
