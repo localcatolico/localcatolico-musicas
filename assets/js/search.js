@@ -57,6 +57,6 @@ function searchMusic() {
       `;
     });
   } else {
-    resultsContainer.innerHTML = `<p class="text-muted">No results found.</p>`;
+    resultsContainer.innerHTML = `<p class="text-muted">Nenhum resultado encontrado.</p>`;
   }
 }
