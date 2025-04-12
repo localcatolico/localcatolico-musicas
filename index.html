@@ -67,24 +67,22 @@
     </header>
     <main>
       <div class="d-flex justify-content-center" style="margin-top: 50px">
-        <div class="col-10 col-md-6">
+        <div class="col-11">
           <div class="row">
-            <div class="col-md-8 offset-md-2">
-              <div class="input-group">
-                <input type="text" id="searchInput" class="form-control" placeholder="Pesquise música, artista ou letra" aria-label="Search" onkeyup="searchMusic()">
-                <button id="voiceButton" class="btn btn-primary"><i class="fas fa-microphone"></i></button>
-              </div>
+            <div class="input-group">
+              <input type="text" id="searchInput" class="form-control" placeholder="Pesquise música, artista ou letra" aria-label="Search" onkeyup="searchMusic()">
+              <button id="voiceButton" class="btn btn-primary"><i class="fas fa-microphone"></i></button>
             </div>
           </div>
           <div class="row">
-            <div class="col-md-8 offset-md-2">
+            <div class="col-11">
               <p id="statusLabel" class="text-danger" style="display: none; font-weight: bold;">Capturando voz...</p>
             </div>
           </div>
         </div>
       </div>
-      <div class="d-flex justify-content-center" style="margin-top: 50px">
-        <div class="col-md-6 card m-3">
+      <div class="d-flex justify-content-center">
+        <div class="col-11 card m-3">
           <div class="card-body">
             <div id="searchResults" class="search-results row"></div>
           </div>
