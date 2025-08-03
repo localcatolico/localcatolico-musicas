@@ -13,6 +13,64 @@
       ]
     },
     {
+      "id": "anderson-freire-raridade",
+      "name": "Raridade",
+      "artist": "Anderson Freire",
+      "youtube_url": "",
+      "cifra_url": "",
+      "letra_url": "https://www.letras.mus.br/anderson-freire/raridade/",
+      "content": [
+        "Não consigo ir além do teu olhar<br>Tudo o que eu consigo é imaginar<br>A riqueza que existe dentro de você",
+        "O ouro eu consigo só admirar<br>Mas te olhando eu posso a Deus adorar<br>Sua alma é um bem que nunca envelhecerá",
+        "O pecado não consegue esconder<br>A marca de Jesus que existe em você<br>O que você fez ou deixou de fazer<br>Não mudou o início, Deus escolheu você",
+        "Sua raridade não está naquilo que você possui<br>Ou que sabe fazer<br>Isso é mistério de Deus com você",
+        "Você é um espelho<br>Que reflete a imagem do Senhor<br>Não chore se o mundo ainda não notou<br>Já é o bastante Deus reconhecer o seu valor",
+        "Você é precioso<br>Mais raro que o ouro puro de Ofir<br>Se você desistiu, Deus não vai desistir<br>Ele está aqui pra te levantar se o mundo te fizer cair"
+      ]
+    },
+    {
+      "id": "flávio-vitor-jr.-enquanto-eu-te-adoro",
+      "name": "Enquanto Eu Te Adoro",
+      "artist": "Flávio Vitor Jr.",
+      "youtube_url": "",
+      "cifra_url": "",
+      "letra_url": "https://www.letras.mus.br/flavio-vitor-jr/enquanto-eu-te-adoro/",
+      "content": [
+        "Eu vivo milagres todos os dias<br>Eu vivo promessas que eu nem mais pedia (2x)",
+        "Enquanto eu Te adoro, Você vai me curando<br>Enquanto eu Te busco, Tua mão opera o que eu não consigo fazer<br>E sem eu perceber, vou sendo transformado (2x)",
+        "Cura, Jesus<br>Cura, Jesus<br>Se o Senhor quiser<br>Se o Senhor quiser<br>Mas se não quiser, ainda assim Te adorarei (2x)",
+        "Adorarei<br>Adorarei<br>Adorarei<br>Adorarei (2x)"
+      ]
+    },
+    {
+      "id": "fraternidade-o-caminho-pedi-e-vos-será-dado",
+      "name": "Pedi e Vos Será Dado",
+      "artist": "Fraternidade O Caminho",
+      "youtube_url": "",
+      "cifra_url": "",
+      "letra_url": "https://www.letras.mus.br/fraternidade-caminho/1516847/",
+      "content": [
+        "Pedi e vos será dado<br>Buscai e encontrareis<br>Batei e vos será aberta<br>Pois todo aquele que pede, recebe<br>Quem busca, encontra<br>Quem bate, se abrirá",
+        "Se abrirão as comportas do céu<br>E sobre ti a benção descerá"
+      ]
+    },
+    {
+      "id": "capella-piedade-de-nos",
+      "name": "Piedade de Nós",
+      "artist": "Capella",
+      "youtube_url": "",
+      "cifra_url": "",
+      "letra_url": "https://www.letras.mus.br/capella/piedade-de-nos/",
+      "content": [
+        "Senhor que viestes salvar<br>Os corações arrependidos<br>Piedade de nós, piedade de nós",
+        "Kyrie Eleison<br>Kyrie Eleison<br>Kyrie Eleison<br>Kyrie Eleison",
+        "Ó Cristo que viste chamar<br>Os pecadores humilhados<br>Piedade de nós, piedade de nós",
+        "Criste Eleison<br>Criste Eleison<br>Criste Eleison<br>Criste Eleison",
+        "Senhor que intercedeis por nós<br>Junto a Deus Pai que nos perdoa<br>Piedade de nós, piedade de nós",
+        "Kyrie Eleison<br>Kyrie Eleison<br>Kyrie Eleison<br>Kyrie Eleison"
+      ]
+    },
+    {
       "id": "frei-gilson-tu-és-o-centro",
       "name": "Tu És o Centro",
       "artist": "Frei Gilson",
@@ -20,10 +78,10 @@
       "cifra_url": "",
       "letra_url": "https://www.letras.mus.br/frei-gilson/tu-es-o-centro/",
       "content": [
-          "Quero Te louvar, Te engrandecer<br>E proclamar Tua vitória em mim",
-          "Ser todo Teu é o meu prazer<br>Te seguirei aonde fores, Senhor",
-          "Tu és o centro da minha vida<br>És a razão da minha alegria<br>Não quero tirar os meus olhos de Ti<br>Quero que sejas o centro, Senhor",
-          "Não vou mais tirar os meus olhos de Ti<br>Vou me apaixonar outra vez<br>Que o meu viver, Senhor, seja pra Te agradar<br>Nada mais vai ocupar meu coração"
+        "Quero Te louvar, Te engrandecer<br>E proclamar Tua vitória em mim",
+        "Ser todo Teu é o meu prazer<br>Te seguirei aonde fores, Senhor",
+        "Tu és o centro da minha vida<br>És a razão da minha alegria<br>Não quero tirar os meus olhos de Ti<br>Quero que sejas o centro, Senhor",
+        "Não vou mais tirar os meus olhos de Ti<br>Vou me apaixonar outra vez<br>Que o meu viver, Senhor, seja pra Te agradar<br>Nada mais vai ocupar meu coração"
       ]
     },
     {
@@ -34,10 +92,10 @@
       "cifra_url": "",
       "letra_url": "https://www.letras.mus.br/comunidade-catolica-shalom/cordeiro-de-jesus/",
       "content": [
-          "Cordeiro de Deus que tirais o pecado do mundo<br>Tende Piedade!",
-          "Cordeiro de Deus que tirais o pecado do mundo<br>Tende Piedade!",
-          "Cordeiro de Deus que tirais o pecado do mundo",
-          "Dai-nos a Paz! Dai-nos a Paz!<br>Dai-nos a vossa Paz! Dai-nos a Paz!<br>Dai-nos a Paz! Dai-nos a Paz!<br>Dai-nos a vossa Paz! Dai-nos a Paz!"
+        "Cordeiro de Deus que tirais o pecado do mundo<br>Tende Piedade!",
+        "Cordeiro de Deus que tirais o pecado do mundo<br>Tende Piedade!",
+        "Cordeiro de Deus que tirais o pecado do mundo",
+        "Dai-nos a Paz! Dai-nos a Paz!<br>Dai-nos a vossa Paz! Dai-nos a Paz!<br>Dai-nos a Paz! Dai-nos a Paz!<br>Dai-nos a vossa Paz! Dai-nos a Paz!"
       ]
     },
     {
@@ -48,10 +106,10 @@
       "cifra_url": "https://www.cifraclub.com.br/catolicas/o-senhor-ressurgiu",
       "letra_url": "https://www.letras.mus.br/catolicas/o-senhor-ressurgiu",
       "content": [
-          "O Senhor ressurgiu, aleluia, aleluia!<br>É o Cordeiro Pascal, aleluia, aleluia!<br>Imolado por nós, aleluia, aleluia!<br>É o Cristo, o Senhor, ele vive e venceu, aleluia!",
-          "1. O Cristo, Senhor ressuscitou<br>A nossa esperança realizou<br>Vencida a morte para sempre<br>Triunfa a vida eternamente!",
-          "2. O Cristo remiu a seus irmãos<br>Ao Pai os conduziu por sua mão<br>No Espírito Santo unida esteja<br>A família de Deus, que é a Igreja!",
-          "3. O Cristo, nossa Páscoa, se imolou<br>Seu sangue da morte nos livrou<br>Incólumes o mar atravessamos<br>E à Terra prometida caminhamos!"
+        "O Senhor ressurgiu, aleluia, aleluia!<br>É o Cordeiro Pascal, aleluia, aleluia!<br>Imolado por nós, aleluia, aleluia!<br>É o Cristo, o Senhor, ele vive e venceu, aleluia!",
+        "1. O Cristo, Senhor ressuscitou<br>A nossa esperança realizou<br>Vencida a morte para sempre<br>Triunfa a vida eternamente!",
+        "2. O Cristo remiu a seus irmãos<br>Ao Pai os conduziu por sua mão<br>No Espírito Santo unida esteja<br>A família de Deus, que é a Igreja!",
+        "3. O Cristo, nossa Páscoa, se imolou<br>Seu sangue da morte nos livrou<br>Incólumes o mar atravessamos<br>E à Terra prometida caminhamos!"
       ]
     },
     {
@@ -62,12 +120,12 @@
       "cifra_url": "https://www.cifraclub.com.br/comunidade-catolica-shalom/renova-o-mundo",
       "letra_url": "https://www.letras.mus.br/comunidade-catolica-shalom/renova-o-mundo",
       "content": [
-          "Senhor, que Sois o caminho que conduz ao Pai<br>Tende piedade, tende piedade de nós",
-          "Kyrie! Kyrie Eleison!<br>Kyrie Eleison!",
-          "Cristo, que Sois a verdade que ilumina os povos<br>Tende piedade, tende piedade de nós",
-          "Christe! Christe Eleison!<br>Christe Eleison!",
-          "Senhor, que Sois a vida que renova o mundo<br>Tende piedade, tende piedade de nós",
-          "Kyrie! Kyrie Eleison!<br>Kyrie Eleison!"
+        "Senhor, que Sois o caminho que conduz ao Pai<br>Tende piedade, tende piedade de nós",
+        "Kyrie! Kyrie Eleison!<br>Kyrie Eleison!",
+        "Cristo, que Sois a verdade que ilumina os povos<br>Tende piedade, tende piedade de nós",
+        "Christe! Christe Eleison!<br>Christe Eleison!",
+        "Senhor, que Sois a vida que renova o mundo<br>Tende piedade, tende piedade de nós",
+        "Kyrie! Kyrie Eleison!<br>Kyrie Eleison!"
       ]
     },
     {
@@ -2610,6 +2668,16 @@
       "content": [
         "Cordeiro de Deus, que tirais o pecado do mundo<br>Tende piedade\nPiedade de nós (2x)",
         "Cordeiro de Deus, que tirais o pecado do mundo<br>Dai-nos a paz\nA Vossa paz"
+      ]
+    },
+    {
+      "id": "aleluia-jardel",
+      "name": "Aleluia",
+      "artist": "Jardel",
+      "youtube_url": "",
+      "cifra_url": "https://cifralize.com.br/jardel-antunes/aleluia",
+      "content": [
+        "Aleluia, Ele está aqui<br>Aleluia, já posso sentir<br>Aleluia, Ele quer falar<br>Aleluia, eu quero escutar"
       ]
     },
     {
