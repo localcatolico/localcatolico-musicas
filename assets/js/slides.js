@@ -4,6 +4,7 @@ fetch("/data/musics.json")
   .then(data => {
     musics = data.musics;
     populateMusicOptions(musics);
+    loadFromURL();
   });
 
 function populateMusicOptions(musics) {
@@ -99,4 +100,97 @@ function getToDarkTheme() {
     return false;
   }
   return true;
+}
+
+function generateShareLink() {
+  const params = new URLSearchParams();
+
+  const title = document.getElementById('title').value;
+  if (title) params.set('title', title);
+
+  params.set('font', document.getElementById('fontOption').value);
+  params.set('theme', document.getElementById('themeOption').value);
+
+  const musicFields = [
+    "musicEntrance",
+    "musicForgiveness",
+    "musicGlory",
+    "musicAcclamation",
+    "musicOffertory",
+    "musicHoly",
+    "musicLamb",
+    "musicCommunion",
+    "musicPostCommunion",
+    "musicFinal"
+  ];
+  
+  musicFields.forEach(fieldId => {
+    const selectElement = document.getElementById(fieldId);
+    if (selectElement.value && selectElement.value !== "Escolha uma música") {
+      params.set(fieldId, selectElement.value);
+    }
+  });
+
+  const eucaristicPrayer = document.getElementById('eucaristicPrayer');
+  if (eucaristicPrayer && eucaristicPrayer.value && eucaristicPrayer.value !== "Escolha uma opção") {
+    params.set('eucaristicPrayer', eucaristicPrayer.value);
+  }
+  
+  const url = `${window.location.origin}${window.location.pathname}?${params.toString()}`;
+
+  navigator.clipboard.writeText(url).then(() => {
+    alert('Link copiado para a área de transferência!');
+  }).catch(err => {
+    // Fallback se o clipboard não funcionar
+    prompt('Copie este link:', url);
+  });
+}
+
+// Função para carregar dados da URL
+function loadFromURL() {
+  const params = new URLSearchParams(window.location.search);
+  
+  // Carrega o título
+  if (params.has('title')) {
+    document.getElementById('title').value = params.get('title');
+  }
+  
+  // Carrega as opções de fonte e tema
+  if (params.has('font')) {
+    document.getElementById('fontOption').value = params.get('font');
+  }
+  if (params.has('theme')) {
+    document.getElementById('themeOption').value = params.get('theme');
+  }
+  
+  // Carrega as músicas
+  const musicFields = [
+    "musicEntrance",
+    "musicForgiveness",
+    "musicGlory",
+    "musicAcclamation",
+    "musicOffertory",
+    "musicHoly",
+    "musicLamb",
+    "musicCommunion",
+    "musicPostCommunion",
+    "musicFinal"
+  ];
+  
+  musicFields.forEach(fieldId => {
+    if (params.has(fieldId)) {
+      const selectElement = document.getElementById(fieldId);
+      if (selectElement) {
+        selectElement.value = params.get(fieldId);
+      }
+    }
+  });
+  
+  // Carrega oração eucarística se houver
+  if (params.has('eucaristicPrayer')) {
+    const eucaristicPrayer = document.getElementById('eucaristicPrayer');
+    if (eucaristicPrayer) {
+      eucaristicPrayer.value = params.get('eucaristicPrayer');
+    }
+  }
 }
