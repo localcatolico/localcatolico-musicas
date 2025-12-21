@@ -219,8 +219,17 @@
                   </div>
                 </div>
                 <br>
-                <button id="generate-ppt" class="btn btn-primary" onclick="generateSlidesMissa()">Gerar Apresentação <i class="fas fa-download"></i></button>
-                <button id="share-link" class="btn btn-success ms-2" onclick="generateShareLink()">Copiar Link para Compartilhar <i class="fas fa-share-alt"></i></button>
+                <div class="d-flex flex-wrap gap-2">
+                  <button id="preview-web" class="btn btn-info" onclick="openWebPresentation()">
+                    <i class="fas fa-eye"></i> Ver na Web
+                  </button>
+                  <button id="generate-ppt" class="btn btn-primary" onclick="generateSlidesMissa()">
+                    <i class="fas fa-download"></i> Baixar PPTX
+                  </button>
+                  <button id="share-link" class="btn btn-success" onclick="generateShareLink()">
+                    <i class="fas fa-share-alt"></i> Compartilhar
+                  </button>
+                </div>
               </div>
             </div>
           </div>

@@ -102,7 +102,7 @@ function getToDarkTheme() {
   return true;
 }
 
-function generateShareLink() {
+function buildPresentationParams() {
   const params = new URLSearchParams();
 
   const title = document.getElementById('title').value;
@@ -136,6 +136,11 @@ function generateShareLink() {
     params.set('eucaristicPrayer', eucaristicPrayer.value);
   }
   
+  return params;
+}
+
+function generateShareLink() {
+  const params = buildPresentationParams();
   const url = `${window.location.origin}${window.location.pathname}?${params.toString()}`;
 
   navigator.clipboard.writeText(url).then(() => {
@@ -144,6 +149,12 @@ function generateShareLink() {
     // Fallback se o clipboard não funcionar
     prompt('Copie este link:', url);
   });
+}
+
+function openWebPresentation() {
+  const params = buildPresentationParams();
+  const url = `${window.location.origin}/presentation.html?${params.toString()}`;
+  window.open(url, '_blank');
 }
 
 // Função para carregar dados da URL
