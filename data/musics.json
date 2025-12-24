@@ -13,6 +13,86 @@
       ]
     },
     {
+      "id": "ato-penitencial-natalino",
+      "name": "Ato Penitencial Natalino",
+      "artist": "",
+      "youtube_url": "https://www.youtube.com/embed/",
+      "cifra_url": "https://www.cifraclub.com.br/",
+      "letra_url": "https://www.letras.mus.br/",
+      "content": [
+        "Senhor, Filho de Deus, que, nascendo da Virgem Maria, vos fizestes nosso irmão, tende piedade de nós",
+        "Senhor, tende piedade de nós",
+        "Cristo, Filho do Homem, que conheceis e compreendeis nossa fraqueza,  tende piedade de nós",
+        "Cristo, tende piedade de nós",
+        "Senhor, Filho primogênito do Pai, que fazeis de nós uma só família, tende piedade de nós",
+        "Senhor, tende piedade de nós"
+      ]
+    },
+    {
+      "id": "natal-noite-feliz",
+      "name": "Noite Feliz",
+      "artist": "Natal",
+      "youtube_url": "",
+      "cifra_url": "",
+      "letra_url": "https://www.letras.mus.br/natal/509388/",
+      "content": [
+        "Noite feliz, noite feliz<br>Ó Senhor, Deus de amor<br>Pobrezinho nasceu em Belém<br>Eis na lapa Jesus, nosso bem",
+        "Dorme em paz, ó Jesus<br>Dorme em paz, ó Jesus",
+        "Noite feliz, noite feliz<br>Eis que, no ar, vêm cantar<br>Aos pastores, os anjos do céu<br>Anunciando a chegada de Deus",
+        "De Jesus, Salvador<br>De Jesus, Salvador",
+        "Noite feliz, noite feliz<br>Ó Jesus, Deus da luz<br>Quão afável é o Teu coração<br>Que quiseste nascer nosso irmão",
+        "E a nós todos salvar<br>E a nós todos salvar"
+      ]
+    },
+    {
+      "id": "jesse-o-noite-santa",
+      "name": "Ó Noite Santa",
+      "artist": "Jessé",
+      "youtube_url": "",
+      "cifra_url": "",
+      "letra_url": "https://www.letras.mus.br/jesse/1126678/",
+      "content": [
+        "Ó, noite santa de estrelas fulgurantes<br>Ó, linda noite em que o Cristo nasceu<br>Estava o mundo pecador errante<br>Até que o Cristo na terra apareceu",
+        "As almas vivem nova esperança<br>Em clara aurora, a nova luz se ergueu",
+        "Povos ajoelhai, ouvi a voz dos anjos<br>É noite divina em Belém, Jesus nasceu<br>Ó santa noite eis, Jesus nasceu",
+        "Com os corações alegres nos curvamos<br>Aqui no berço de Cristo Jesus<br>Magos também do Oriente aqui chegam<br>Guiados por uma estrela de luz",
+        "O grande Rei nascido pobremente<br>Eterno amigo vai se revelar",
+        "Povos ajoelhai, ouvi a voz dos anjos<br>É noite divina em Belém, Jesus nasceu<br>Ó santa noite eis, Jesus nasceu"
+      ]
+    },
+    {
+      "id": "comunidade-recado-noite-excelsa",
+      "name": "Noite Excelsa",
+      "artist": "Comunidade Recado",
+      "youtube_url": "",
+      "cifra_url": "",
+      "letra_url": "https://www.letras.mus.br/comunidade-recado/noite-excelsa/",
+      "content": [
+        "Alegremo-nos todos no Senhor<br>Hoje nasceu, do mundo, o Salvador<br>Desceu do céu, desceu do céu a verdadeira paz",
+        "Noite excelsa, noite iluminada<br>Noite santa que nos trouxe o Salvador<br>Reis e pastores o adoram<br>Os anjos cantam glória<br>O menino Deus está entre nós",
+        "Alegremo-nos todos no Senhor<br>Hoje nasceu, do mundo, o Salvador<br>Desceu do céu, desceu do céu a verdadeira paz"
+      ]
+    },
+    {
+      "id": "gloria-in-excelsius-deo",
+      "name": "Glória In Excelsius Deo (Litúrgico)",
+      "artist": "",
+      "youtube_url": "",
+      "cifra_url": "",
+      "letra_url": "",
+      "content": [
+        "Glória a Deus nos altos céus, paz na terra aos seus amados<br>A vós louvam Rei celeste, os que foram libertados",
+        "Glória in excelsius deo",
+        "Deus e Pai nós vos louvamos, adoramos bendizemos<br>Damos glória ao vosso nome, vossos dons agradecemos",
+        "Glória in excelsius deo",
+        "Senhor nosso Jessus Cristo, unigênito do Pai<br>Vós de Deus, Cordeiro Santo, nossas culpas perdoai",
+        "Glória in excelsius deo",
+        "Vós que estais junto do Pai como nosso intercessor<br>Acolhei nossos pedidos, atendei nosso clamor",
+        "Glória in excelsius deo",
+        "Vós comento sois o Santo, o Altíssimo Senhor<br>Com o Espírito Divino de Deus Pai no esplendor"
+      ]
+    },
+    {
       "id": "natal-e-vida-que-nasce",
       "name": "Natal é Vida que Nasce",
       "artist": "",
